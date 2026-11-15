@@ -5,7 +5,8 @@
     "kind": "famous voyage",
     "title": "Six men, one Balsa Raft",
     "video": "v/2026-11-14-kon-tiki.mp4",
-    "instagram_media_id": "18104064239363102"
+    "instagram_media_id": "18104064239363102",
+    "style": "parchment"
   },
   {
     "date": "2026-11-15",
@@ -18,7 +19,8 @@
       "https://www.allaboutbirds.org/news/?p=12506",
       "https://www.sciencenews.org/article/avian-airlines-alaska-new-zealand-nonstop",
       "https://shorebirds.org.nz/news-2/e7-a-godwit-on-a-mission"
-    ]
+    ],
+    "style": "parchment"
   },
   {
     "date": "2026-11-15",
@@ -33,7 +35,8 @@
       "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
       "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
       "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
-    ]
+    ],
+    "style": "parchment"
   },
   {
     "date": "2026-11-15",
@@ -49,7 +52,8 @@
       "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
       "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
       "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
-    ]
+    ],
+    "style": "parchment"
   },
   {
     "date": "2026-11-15",
@@ -63,7 +67,8 @@
       "https://en.wikipedia.org/wiki/Great_Tea_Race_of_1866",
       "https://www.rmg.co.uk/collections/objects/rmgc-object-66935",
       "https://www.smithsonianmag.com/history/the-great-tea-race-of-1866-8209465/"
-    ]
+    ],
+    "style": "parchment"
   },
   {
     "date": "2026-11-15",
@@ -77,7 +82,8 @@
       "https://www.wallacejnichols.org/101/80/bulletin-of-marine-science-transpacific-sea-turtle-migration.html",
       "https://www.pbs.org/wnet/nature/voyage-of-the-lonely-turtle-interview-wallace-j-nichols/2508",
       "https://en.wikipedia.org/wiki/Adelita_(turtle)"
-    ]
+    ],
+    "style": "parchment"
   },
   {
     "date": "2026-11-15",
@@ -92,6 +98,7 @@
       "https://rmg.co.uk/collections/objects/rmgc-object-68947",
       "https://sea.museum/2019/06/14/a-mutiny-and-a-mystery-what-happened-to-fletcher-christian-and-the-bounty-mutineers",
       "https://www.slq.qld.gov.au/blog/queensland-places-restoration"
-    ]
+    ],
+    "style": "parchment"
   }
 ]
