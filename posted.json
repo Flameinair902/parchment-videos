@@ -1,54 +1,68 @@
 [
- {
-  "date": "2026-11-14",
-  "topic": "Kon-Tiki raft voyage, Peru to Raroia, 1947",
-  "kind": "famous voyage",
-  "title": "Six men, one Balsa Raft",
-  "video": "v/2026-11-14-kon-tiki.mp4",
-  "instagram_media_id": "18104064239363102"
- },
- {
-  "date": "2026-11-15",
-  "topic": "Bar-tailed godwit E7 non-stop flight, Alaska to New Zealand, 2007",
-  "kind": "science journey",
-  "title": "One small bird, Godwit E7",
-  "video": "v/2026-11-15-godwit-e7.mp4",
-  "instagram_media_id": "17934074118166846",
-  "sources": [
-   "https://www.allaboutbirds.org/news/?p=12506",
-   "https://www.sciencenews.org/article/avian-airlines-alaska-new-zealand-nonstop",
-   "https://shorebirds.org.nz/news-2/e7-a-godwit-on-a-mission"
-  ]
- },
- {
-  "date": "2026-11-15",
-  "topic": "Jeanne Baret, first woman to circumnavigate the globe, disguised as a man (1766-1775)",
-  "kind": "famous voyage",
-  "title": "The man who wasn't: Jeanne Baret",
-  "video": "v/2026-11-15-jeanne-baret.mp4",
-  "instagram_media_id": "18154126747558901",
-  "sources": [
-   "https://www.britannica.com/biography/Jeanne-Baret",
-   "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
-   "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
-   "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
-   "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
-  ]
- },
- {
-  "date": "2026-11-15",
-  "topic": "Jeanne Baret, first woman to circumnavigate the globe, disguised as a man (1766-1775) - v2 re-cut with clearer hook",
-  "kind": "famous voyage",
-  "title": "A woman in disguise: Jeanne Baret",
-  "video": "v/2026-11-15-jeanne-baret-v2.mp4",
-  "instagram_media_id": "17891851527653229",
-  "replaces_media_id": "18154126747558901",
-  "sources": [
-   "https://www.britannica.com/biography/Jeanne-Baret",
-   "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
-   "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
-   "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
-   "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
-  ]
- }
+  {
+    "date": "2026-11-14",
+    "topic": "Kon-Tiki raft voyage, Peru to Raroia, 1947",
+    "kind": "famous voyage",
+    "title": "Six men, one Balsa Raft",
+    "video": "v/2026-11-14-kon-tiki.mp4",
+    "instagram_media_id": "18104064239363102"
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "Bar-tailed godwit E7 non-stop flight, Alaska to New Zealand, 2007",
+    "kind": "science journey",
+    "title": "One small bird, Godwit E7",
+    "video": "v/2026-11-15-godwit-e7.mp4",
+    "instagram_media_id": "17934074118166846",
+    "sources": [
+      "https://www.allaboutbirds.org/news/?p=12506",
+      "https://www.sciencenews.org/article/avian-airlines-alaska-new-zealand-nonstop",
+      "https://shorebirds.org.nz/news-2/e7-a-godwit-on-a-mission"
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "Jeanne Baret, first woman to circumnavigate the globe, disguised as a man (1766-1775)",
+    "kind": "famous voyage",
+    "title": "The man who wasn't: Jeanne Baret",
+    "video": "v/2026-11-15-jeanne-baret.mp4",
+    "instagram_media_id": "18154126747558901",
+    "sources": [
+      "https://www.britannica.com/biography/Jeanne-Baret",
+      "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
+      "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
+      "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
+      "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "Jeanne Baret, first woman to circumnavigate the globe, disguised as a man (1766-1775) - v2 re-cut with clearer hook",
+    "kind": "famous voyage",
+    "title": "A woman in disguise: Jeanne Baret",
+    "video": "v/2026-11-15-jeanne-baret-v2.mp4",
+    "instagram_media_id": "17891851527653229",
+    "replaces_media_id": "18154126747558901",
+    "sources": [
+      "https://www.britannica.com/biography/Jeanne-Baret",
+      "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
+      "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
+      "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
+      "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "Great Tea Race of 1866, clippers Ariel and Taeping, Fuzhou to London",
+    "kind": "historic route",
+    "title": "A 99-day dead heat / Tea Race",
+    "video": "v/2026-11-15-great-tea-race.mp4",
+    "instagram_media_id": "18173187070461536",
+    "narration": "Sixteen thousand miles at sea, decided by minutes. May 1866. Tea clippers leave China on the same tide, racing for a prize. Off Borneo, rivals Ariel and Taeping spot each other again. Three months out, four ships pass the Azores on the same day. Ariel and Taeping charge up the Channel together. Who wins? Ninety-nine days at sea. Taeping docks first, by minutes. Then they split the prize.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Great_Tea_Race_of_1866",
+      "https://www.rmg.co.uk/collections/objects/rmgc-object-66935",
+      "https://www.smithsonianmag.com/history/the-great-tea-race-of-1866-8209465/"
+    ]
+  }
 ]
