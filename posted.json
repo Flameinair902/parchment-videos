@@ -1,1 +1,23 @@
-[{"date":"2026-11-14","topic":"Kon-Tiki raft voyage, Peru to Raroia, 1947","kind":"famous voyage","title":"Six men, one Balsa Raft","video":"v/2026-11-14-kon-tiki.mp4","instagram_media_id":"18104064239363102"}]
+[
+ {
+  "date": "2026-11-14",
+  "topic": "Kon-Tiki raft voyage, Peru to Raroia, 1947",
+  "kind": "famous voyage",
+  "title": "Six men, one Balsa Raft",
+  "video": "v/2026-11-14-kon-tiki.mp4",
+  "instagram_media_id": "18104064239363102"
+ },
+ {
+  "date": "2026-11-15",
+  "topic": "Bar-tailed godwit E7 non-stop flight, Alaska to New Zealand, 2007",
+  "kind": "science journey",
+  "title": "One small bird, Godwit E7",
+  "video": "v/2026-11-15-godwit-e7.mp4",
+  "instagram_media_id": "17934074118166846",
+  "sources": [
+   "https://www.allaboutbirds.org/news/?p=12506",
+   "https://www.sciencenews.org/article/avian-airlines-alaska-new-zealand-nonstop",
+   "https://shorebirds.org.nz/news-2/e7-a-godwit-on-a-mission"
+  ]
+ }
+]
