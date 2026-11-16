@@ -190,5 +190,23 @@
    "https://www.prb.org/articles/how-many-people"
   ],
   "notes": "Retention-focused cut: contradiction hook spoken from frame 0, on-screen number counting up in first second, ~22 s, open-loop question before twist ending, speed 1.08"
+ },
+ {
+  "date": "2026-11-16",
+  "time": "18:39",
+  "style": "exploded",
+  "topic": "Inside an ionisation smoke alarm: the americium-241 chamber",
+  "kind": "inside everyday object",
+  "title": "ON YOUR CEILING: RADIOACTIVE METAL",
+  "video": "v/2026-11-16-1839-smoke-alarm.mp4",
+  "instagram_media_id": "17968224594219009",
+  "youtube_video_id": "H2ZnE7uPZpQ",
+  "narration": "There may be radioactive metal on your ceiling. Pop the cover off a smoke alarm. Inside sits a tiny metal chamber. Below it, a circuit board and a loud horn. A nine-volt battery powers it all. A base plate holds it up there. In many alarms, that chamber holds americium two forty-one, made in nuclear reactors. It ionises the air so a tiny current flows. Smoke breaks it, and the alarm screams. So is it dangerous? Its alpha particles can't pass paper.",
+  "sources": [
+   "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/smoke-detectors.html",
+   "https://19january2025snapshot.epa.gov/radiation/radionuclide-basics-americium-241",
+   "https://19january2025snapshot.epa.gov/radtown/americium-ionization-smoke-detectors",
+   "https://sciencedemonstrations.fas.harvard.edu/presentations/α-β-γ-penetration-and-shielding"
+  ]
  }
 ]
