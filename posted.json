@@ -172,5 +172,23 @@
       "https://en.wikipedia.org/wiki/Rigel",
       "https://en.wikipedia.org/wiki/Sirius"
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "time": "18:02",
+    "style": "data",
+    "topic": "Earth has more trees (3.04 trillion) than the Milky Way has stars (100-400 billion)",
+    "kind": "surprising statistic",
+    "title": "More trees than stars",
+    "video": "v/2026-11-16-1802-trees-vs-stars.mp4",
+    "instagram_media_id": "18111814036914972",
+    "youtube_video_id": "4nfskeLS2zU",
+    "narration": "Earth has more trees than our galaxy has stars. About three trillion, counted from satellites and ground surveys. Our galaxy has one hundred to four hundred billion stars. That's roughly four hundred trees for every person. Even against the highest star count, trees win by seven to one. So they're safe, right? We lose fifteen billion every single year.",
+    "sources": [
+      "https://news.yale.edu/2015/09/02/seeing-forest-and-trees-all-3-trillion-them",
+      "https://science.nasa.gov/universe/stories/quick-reads/how-big-is-our-galaxy-the-milky-way/",
+      "https://www.prb.org/articles/how-many-people"
+    ],
+    "notes": "Retention-focused cut: contradiction hook spoken from frame 0, on-screen number counting up in first second, ~22 s, open-loop question before twist ending, speed 1.08"
   }
 ]
