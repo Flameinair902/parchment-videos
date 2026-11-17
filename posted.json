@@ -22,14 +22,14 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T00:04:45+0000",
       "media_views": 140,
       "media_reach": 109,
       "media_reel_avg_watch_time": 8598,
       "media_reel_skip_rate": 0.615,
       "media_reel_total_interactions": 1,
       "media_shares": 0,
-      "media_saved": 0,
-      "fetched": "2026-11-17T12:35Z"
+      "media_saved": 0
     }
   },
   {
@@ -65,14 +65,14 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T00:25:07+0000",
       "media_views": 166,
       "media_reach": 149,
       "media_reel_avg_watch_time": 7231,
       "media_reel_skip_rate": 0.497,
       "media_reel_total_interactions": 1,
       "media_shares": 0,
-      "media_saved": 0,
-      "fetched": "2026-11-17T12:35Z"
+      "media_saved": 0
     }
   },
   {
@@ -90,14 +90,14 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T09:08:25+0000",
       "media_views": 1309,
       "media_reach": 1016,
       "media_reel_avg_watch_time": 13347,
       "media_reel_skip_rate": 0.33,
       "media_reel_total_interactions": 3,
       "media_shares": 0,
-      "media_saved": 0,
-      "fetched": "2026-11-17T12:35Z"
+      "media_saved": 0
     }
   },
   {
@@ -115,14 +115,14 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T10:49:54+0000",
       "media_views": 223,
       "media_reach": 198,
       "media_reel_avg_watch_time": 6821,
       "media_reel_skip_rate": 0.508,
       "media_reel_total_interactions": 2,
       "media_shares": 0,
-      "media_saved": 0,
-      "fetched": "2026-11-17T12:35Z"
+      "media_saved": 0
     }
   },
   {
@@ -141,14 +141,14 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T17:44:44+0000",
       "media_views": 122,
       "media_reach": 104,
       "media_reel_avg_watch_time": 6903,
       "media_reel_skip_rate": 0.548,
       "media_reel_total_interactions": 0,
       "media_shares": 0,
-      "media_saved": 0,
-      "fetched": "2026-11-17T12:35Z"
+      "media_saved": 0
     }
   },
   {
@@ -168,14 +168,14 @@
       "https://en.wikipedia.org/wiki/Sirius"
     ],
     "metrics": {
+      "timestamp": "2026-11-16T12:40:20+0000",
       "media_views": 230,
       "media_reach": 169,
       "media_reel_avg_watch_time": 9598,
       "media_reel_skip_rate": 0.414,
       "media_reel_total_interactions": 4,
       "media_shares": 1,
-      "media_saved": 0,
-      "fetched": "2026-11-17T12:35Z"
+      "media_saved": 0
     }
   },
   {
@@ -196,14 +196,14 @@
     ],
     "notes": "Retention-focused cut: contradiction hook spoken from frame 0, on-screen number counting up in first second, ~22 s, open-loop question before twist ending, speed 1.08",
     "metrics": {
+      "timestamp": "2026-11-16T18:04:43+0000",
       "media_views": 196,
       "media_reach": 141,
       "media_reel_avg_watch_time": 12465,
       "media_reel_skip_rate": 0.286,
       "media_reel_total_interactions": 1,
       "media_shares": 0,
-      "media_saved": 0,
-      "fetched": "2026-11-17T12:35Z"
+      "media_saved": 0
     }
   },
   {
@@ -224,14 +224,14 @@
       "https://sciencedemonstrations.fas.harvard.edu/presentations/α-β-γ-penetration-and-shielding"
     ],
     "metrics": {
+      "timestamp": "2026-11-16T18:41:52+0000",
       "media_views": 115,
       "media_reach": 104,
       "media_reel_avg_watch_time": 4892,
       "media_reel_skip_rate": 0.743,
       "media_reel_total_interactions": 0,
       "media_shares": 0,
-      "media_saved": 0,
-      "fetched": "2026-11-17T12:35Z"
+      "media_saved": 0
     }
   },
   {
@@ -250,6 +250,22 @@
       "https://kids.britannica.com/students/article/Hannibal/274766",
       "https://www.livius.org/articles/person/hannibal-3-barca/hannibal-in-the-alps",
       "https://www.history.com/articles/hannibal-crosses-alps"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "time": "18:41",
+    "style": "data",
+    "topic": "Cost of sequencing one human genome: $95.3M (2001) to ~$525 (2022), ~180,000x cheaper, out-paced Moore's Law",
+    "kind": "surprising statistic",
+    "title": "Your DNA once cost $95 million to read",
+    "video": "v/2026-11-17-1839-genome-cost.mp4",
+    "instagram_media_id": "18158233348535858",
+    "youtube_video_id": "pthRk0XGBZU",
+    "narration": "Reading your DNA cost ninety-five million dollars. That was in two thousand and one. Then, in two thousand and eight, new sequencing machines arrived. The price fell ninety-nine point six percent in seven years. And it kept on falling. By twenty twenty-two, about five hundred and twenty-five dollars. Put the two price tags side by side. A hundred and eighty thousand times cheaper. Did computer chips keep up? It outran Moore's law.",
+    "sources": [
+      "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data",
+      "https://ourworldindata.org/grapher/cost-of-sequencing-a-full-human-genome"
     ]
   }
 ]
