@@ -6,7 +6,8 @@
     "title": "Six men, one Balsa Raft",
     "video": "v/2026-11-14-kon-tiki.mp4",
     "instagram_media_id": "18104064239363102",
-    "style": "parchment"
+    "style": "parchment",
+    "hook_type": "single-subject story"
   },
   {
     "date": "2026-11-15",
@@ -29,7 +30,8 @@
       "media_reel_total_interactions": 1,
       "media_shares": 0,
       "media_saved": 0
-    }
+    },
+    "hook_type": "single-subject story"
   },
   {
     "date": "2026-11-15",
@@ -45,7 +47,8 @@
       "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
       "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
     ],
-    "style": "parchment"
+    "style": "parchment",
+    "hook_type": "hidden identity / secret"
   },
   {
     "date": "2026-11-15",
@@ -71,7 +74,8 @@
       "media_reel_total_interactions": 1,
       "media_shares": 0,
       "media_saved": 0
-    }
+    },
+    "hook_type": "hidden identity / secret"
   },
   {
     "date": "2026-11-15",
@@ -95,6 +99,12 @@
       "media_reel_total_interactions": 3,
       "media_shares": 0,
       "media_saved": 0
+    },
+    "youtube_video_id": "7LrsHl-pvXc",
+    "hook_type": "race / stakes",
+    "yt_metrics": {
+      "video_view_count": 675,
+      "video_like_count": 6
     }
   },
   {
@@ -119,7 +129,8 @@
       "media_reel_total_interactions": 2,
       "media_shares": 0,
       "media_saved": 0
-    }
+    },
+    "hook_type": "single-subject story"
   },
   {
     "date": "2026-11-15",
@@ -144,7 +155,8 @@
       "media_reel_total_interactions": 0,
       "media_shares": 0,
       "media_saved": 0
-    }
+    },
+    "hook_type": "survival / stakes"
   },
   {
     "date": "2026-11-16",
@@ -170,6 +182,11 @@
       "media_reel_total_interactions": 4,
       "media_shares": 1,
       "media_saved": 0
+    },
+    "hook_type": "you-think-big-but comparison",
+    "yt_metrics": {
+      "video_view_count": 4,
+      "video_like_count": 0
     }
   },
   {
@@ -197,6 +214,11 @@
       "media_reel_total_interactions": 1,
       "media_shares": 0,
       "media_saved": 0
+    },
+    "hook_type": "contradiction of two familiar things",
+    "yt_metrics": {
+      "video_view_count": 2,
+      "video_like_count": 0
     }
   },
   {
@@ -224,6 +246,11 @@
       "media_reel_total_interactions": 0,
       "media_shares": 0,
       "media_saved": 0
+    },
+    "hook_type": "warning / danger at home",
+    "yt_metrics": {
+      "video_view_count": 5,
+      "video_like_count": 0
     }
   },
   {
@@ -251,6 +278,11 @@
       "media_reel_total_interactions": 2,
       "media_shares": 0,
       "media_saved": 0
+    },
+    "hook_type": "single-subject story",
+    "yt_metrics": {
+      "video_view_count": 38,
+      "video_like_count": 1
     }
   },
   {
@@ -276,6 +308,11 @@
       "media_reel_total_interactions": 0,
       "media_shares": 0,
       "media_saved": 0
+    },
+    "hook_type": "huge number / price collapse",
+    "yt_metrics": {
+      "video_view_count": 639,
+      "video_like_count": 2
     }
   },
   {
@@ -294,7 +331,12 @@
       "https://facts.usps.com/pony-express-history/",
       "https://en.wikipedia.org/wiki/First_transcontinental_telegraph",
       "https://en.wikipedia.org/wiki/Overland_Telegraph_Company"
-    ]
+    ],
+    "hook_type": "surprising short duration",
+    "yt_metrics": {
+      "video_view_count": 3,
+      "video_like_count": 0
+    }
   },
   {
     "date": "2026-11-18",
@@ -312,6 +354,11 @@
       "https://en.wikipedia.org/wiki/Contactless_smart_card",
       "https://www.securetechalliance.org/smart-cards-faq/",
       "https://arxiv.org/pdf/1507.06427"
-    ]
+    ],
+    "hook_type": "hidden thing in everyday object",
+    "yt_metrics": {
+      "video_view_count": 2,
+      "video_like_count": 0
+    }
   }
 ]
