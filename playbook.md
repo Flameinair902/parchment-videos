@@ -3,33 +3,40 @@
 Rewritten by every scheduled run after it refreshes the numbers. Rules here steer topic, hook, title, pacing and captions.
 Evidence counts only posts over 20 h old. A rule moves to **Do** or **Avoid** only with at least 2 supporting posts; one-off signals stay under **Watching**.
 
-Last updated: 2026-11-19 (11 posts over 20 h with Instagram metrics, 7 with YouTube views)
+Last updated: 2026-11-21 (13 posts over 20 h with Instagram metrics, 9 with YouTube views)
 
 ## What the numbers say so far
-- Instagram views track skip rate. Best: Tea Race 1,309 (skip 0.33, 13.4 s watch), Sun is tiny 230 (0.41), turtle 223 (0.51), trees vs stars 196 (0.29, retention 0.58). Worst: smoke alarm 116 (skip 0.74, 4.9 s), Bligh 122 (0.55), godwit 140 (0.62).
-- Hooks with a number in the first line (Tea Race, DNA cost, Pony Express): mean 535 IG views, skip 0.43, 439 YT views; without a number: 169 IG, skip 0.52, 6 YT.
-- YouTube: only Tea Race (662) and DNA cost (653) broke out; card antenna has 70 after 18 h, Hannibal 39, the rest under 10.
-- Length: under 25 s retains best (0.43 of the video watched); 25-30 s only 0.29. The one 30+ s video is the Tea Race outlier.
-- Interactions stay near zero on every post (max 4); shares and saves almost never happen.
+- BREAKOUT: "2 moons bigger than a planet" (cosmic, contradiction hook) hit 1,636 YT views in 48 h, 2.5x the next best Short. IG 175 (skip 0.41, retention 0.47).
+- IG views still led by Tea Race 1,309 (skip 0.33). Next: Sun 230, turtle 223, trees vs stars 196. Worst: smoke alarm 116 (skip 0.75), Bligh 122, card antenna 134 (0.63).
+- Contradiction of two familiar things (trees vs stars, moons vs Mercury): mean skip 0.35, retention 0.52, combined views 1,004. Single-subject stories (3 posts): skip 0.55, 188 views.
+- YT breakouts are all number + stakes or contradiction: moons 1,636, Tea Race 662, DNA cost 654. Everything else under 75.
+- Style means: cosmic skip 0.41 / ret 0.46; data 0.43 / 0.46; lowpoly 0.45 / 0.37; parchment 0.50 / 0.34; exploded 0.69 / 0.19.
+- Length: under 25 s retains 0.43 vs 0.29 for 25 s+ (6 v 7 posts).
+- Post hour: ~12:45 posts skip 0.43 vs 0.56 at ~18:40 (4 posts each); 12:45 views 600 vs 333.
+- Interactions near zero everywhere; the either/or comment prompt on the moons post got 0 interactions.
 
 ## Do
-- Put a **concrete number in the hook line** (3 posts: Tea Race, DNA cost, Pony Express; higher views on both platforms, lower skip).
-- Hooks with **stakes or a contest and a concrete number** ("99 days, decided by minutes"; "once cost $95 million"): the only two breakouts, on both platforms.
-- Hooks that **pit two familiar things against each other** or flip an assumption (more trees than stars; our Sun looks tiny): lowest skip rates.
-- First visible change within 1 s; first real payoff (the number, the reveal) by about 6 to 8 s, since average watch is 5 to 13 s.
-- YouTube titles: a short curiosity line with a number or stakes.
+- Put a **concrete number in the hook line** (Tea Race, DNA cost, moons, Pony Express).
+- **Contradict or flip two familiar things** (trees vs stars, moons vs Mercury): lowest skip, best retention, one YT breakout.
+- Hooks with **stakes or a contest plus a number** (Tea Race, DNA cost).
+- First visible change within 1 s; first payoff by 6-8 s (average watch is 5-13 s).
+- Keep videos **under 25 s** (6 v 7 posts).
+- YouTube titles: a short curiosity line with a number or a flip ("2 moons are bigger than a planet").
 
 ## Avoid
-- Hooks built on one subject the viewer has never heard of (a named bird, sailor, turtle, general): skip 0.51 to 0.62, low views.
-- Warning or danger framing about the home: worst skip so far (0.74).
-- Videos of 25 to 30 s without a strong narrative: retention 0.29 vs 0.43 for under 25 s (5 posts each band).
+- Hooks built on one obscure subject (named bird, sailor, turtle, general): skip 0.51-0.62.
+- Warning or danger framing about the home (skip 0.75).
+- Exploded-style videos at 27-29 s with 80+ words (smoke alarm, card antenna): retention 0.17 / 0.22, skip 0.75 / 0.63. If exploded is picked, keep it under 24 s and lead with a contradiction.
+- Videos of 25-30 s without a strong narrative.
 
-## Watching (one data point, not a rule yet)
-- Morning post (Tea Race, ~09:00 UK) vs 12:30 / 18:30: untested beyond one post.
-- Exploded style first frame: smoke alarm skip 0.74, card antenna skip 0.62 after 18 h (not yet counted). Likely weak opener; one more exploded post would settle it.
-- Ending with a specific either/or comment prompt instead of a generic question (being tested 2026-11-19).
-- Moon/planet "category flip" hooks (a moon bigger than a planet): testing 2026-11-19.
+## Watching (not a rule yet)
+- Morning post (Tea Race, ~09:00 UK): one data point.
+- Midday (~12:45) beating evening (~18:40) on skip and views: 4 v 4 but confounded by style; can't be changed by the runs.
+- Either/or comment prompt: 0 interactions on the moons post (1 data point). Comments stay near zero whatever the prompt.
+- Geography flip on a map (Panama Canal, 2026-11-21): contradiction hook moved to lowpoly.
+- Very short videos (~22 s, 57 words): testing 2026-11-21.
 
 ## Experiment log
-- 2026-11-18 18:44 exploded / card antenna: hidden-thing hook, no fear framing. Early result (18 h): IG 134 views, skip 0.62, 6.0 s watch; YT 70 (third best Short). Better than smoke alarm on both, still below average on IG. Confirm next run.
-- 2026-11-19 12:49 cosmic / moons bigger than Mercury: specific either/or comment prompt ("which did you think was bigger, Mercury or Ganymede?"). Result pending.
+- 2026-11-18 18:44 exploded / card antenna: hidden-thing hook, no fear framing. Final: IG 134, skip 0.63, retention 0.22; YT 74. Better than smoke alarm but still bottom tier: exploded stays weak.
+- 2026-11-19 12:49 cosmic / moons bigger than Mercury: specific either/or comment prompt. Result: 0 interactions on IG (no gain), but the video broke out on YT (1,636), driven by the contradiction hook, not the prompt.
+- 2026-11-21 12:42 lowpoly / Panama Canal flows east: shortest video yet (22.4 s, 57 words), contradiction hook with a number. Result pending. Instagram post failed: account restricted.
