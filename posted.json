@@ -23,6 +23,7 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T00:04:45+0000",
       "media_views": 140,
       "media_reach": 109,
       "media_reel_avg_watch_time": 8598,
@@ -67,6 +68,7 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T00:25:07+0000",
       "media_views": 166,
       "media_reach": 149,
       "media_reel_avg_watch_time": 7231,
@@ -92,6 +94,7 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T09:08:25+0000",
       "media_views": 1309,
       "media_reach": 1016,
       "media_reel_avg_watch_time": 13350,
@@ -122,6 +125,7 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T10:49:54+0000",
       "media_views": 223,
       "media_reach": 198,
       "media_reel_avg_watch_time": 6821,
@@ -148,6 +152,7 @@
     ],
     "style": "parchment",
     "metrics": {
+      "timestamp": "2026-11-15T17:44:44+0000",
       "media_views": 122,
       "media_reach": 104,
       "media_reel_avg_watch_time": 6903,
@@ -175,6 +180,7 @@
       "https://en.wikipedia.org/wiki/Sirius"
     ],
     "metrics": {
+      "timestamp": "2026-11-16T12:40:20+0000",
       "media_views": 230,
       "media_reach": 169,
       "media_reel_avg_watch_time": 9598,
@@ -207,6 +213,7 @@
     ],
     "notes": "Retention-focused cut: contradiction hook spoken from frame 0, on-screen number counting up in first second, ~22 s, open-loop question before twist ending, speed 1.08",
     "metrics": {
+      "timestamp": "2026-11-16T18:04:43+0000",
       "media_views": 196,
       "media_reach": 142,
       "media_reel_avg_watch_time": 12465,
@@ -239,6 +246,7 @@
       "https://sciencedemonstrations.fas.harvard.edu/presentations/α-β-γ-penetration-and-shielding"
     ],
     "metrics": {
+      "timestamp": "2026-11-16T18:41:52+0000",
       "media_views": 116,
       "media_reach": 105,
       "media_reel_avg_watch_time": 4873,
@@ -271,6 +279,7 @@
       "https://www.history.com/articles/hannibal-crosses-alps"
     ],
     "metrics": {
+      "timestamp": "2026-11-17T12:51:05+0000",
       "media_views": 162,
       "media_reach": 133,
       "media_reel_avg_watch_time": 7981,
@@ -301,6 +310,7 @@
       "https://ourworldindata.org/grapher/cost-of-sequencing-a-full-human-genome"
     ],
     "metrics": {
+      "timestamp": "2026-11-17T18:43:01+0000",
       "media_views": 150,
       "media_reach": 124,
       "media_reel_avg_watch_time": 9620,
@@ -311,7 +321,7 @@
     },
     "hook_type": "huge number / price collapse",
     "yt_metrics": {
-      "video_view_count": 654,
+      "video_view_count": 658,
       "video_like_count": 2
     }
   },
@@ -338,6 +348,7 @@
       "video_like_count": 0
     },
     "metrics": {
+      "timestamp": "2026-11-18T12:49:42+0000",
       "media_views": 147,
       "media_reach": 121,
       "media_reel_avg_watch_time": 10233,
@@ -370,6 +381,7 @@
       "video_like_count": 0
     },
     "metrics": {
+      "timestamp": "2026-11-18T18:46:25+0000",
       "media_views": 134,
       "media_reach": 119,
       "media_reel_avg_watch_time": 6003,
@@ -400,6 +412,7 @@
       "https://science.nasa.gov/moon/facts/"
     ],
     "metrics": {
+      "timestamp": "2026-11-19T12:51:39+0000",
       "media_views": 175,
       "media_reach": 133,
       "media_reel_avg_watch_time": 10959,
@@ -409,7 +422,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1636,
+      "video_view_count": 1672,
       "video_like_count": 9
     }
   },
@@ -434,6 +447,30 @@
       "https://www.britannica.com/question/Why-is-the-Panama-Canal-important",
       "https://en.wikipedia.org/wiki/Atlantic_Bridge,_Panama",
       "https://en.wikipedia.org/wiki/Bridge_of_the_Americas"
+    ],
+    "yt_metrics": {
+      "video_view_count": 346,
+      "video_like_count": 1
+    }
+  },
+  {
+    "date": "2026-11-21",
+    "time": "18:44",
+    "style": "exploded",
+    "topic": "Long-life 'paper' juice carton is 6 layers incl. aluminium foil; ~74% paper, 22% polyethylene, 4% aluminium by weight",
+    "kind": "inside everyday object",
+    "hook_type": "contradiction of two familiar things",
+    "title": "Paper carton? 6 layers, 1 metal",
+    "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-21-1844-carton-foil.mp4",
+    "instagram_media_id": "18137817698505824",
+    "youtube_video_id": "ZDzCFqFc-2A",
+    "youtube_title": "Your paper juice carton is hiding metal #Shorts",
+    "experiment": "Request-style comment prompt ('What everyday object should we take apart next?') instead of either/or; exploded kept to 23 s / 62 words with a contradiction hook",
+    "narration": "This paper juice carton is six layers. One is metal. Peel them apart. Plastic, then paperboard for strength. More plastic glues on... this. Then two more plastic layers seal in the juice. That shiny sheet is foil. It blocks light and air, so long-life juice keeps without a fridge. So what is it really made of? Seventy-four percent paper. Four percent metal.",
+    "sources": [
+      "https://loraincountyohio.gov/DocumentCenter/View/223",
+      "https://waste360.com/industry-insights/profiles-in-garbage-aseptic-boxes-cartons",
+      "https://www.sig.biz/en/news-insights/blog/deconstructing-an-aseptic-carton"
     ]
   }
 ]
