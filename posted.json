@@ -409,7 +409,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1780,
+      "video_view_count": 1782,
       "video_like_count": 10
     }
   },
@@ -469,7 +469,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 870,
+      "video_view_count": 871,
       "video_like_count": 1
     }
   },
@@ -502,7 +502,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 110,
+      "video_view_count": 114,
       "video_like_count": 1
     }
   },
@@ -535,7 +535,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1160,
+      "video_view_count": 1153,
       "video_like_count": 12
     }
   },
@@ -566,7 +566,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 239,
+      "video_view_count": 257,
       "video_like_count": 1
     }
   },
@@ -587,6 +587,42 @@
       "https://www.mcgill.ca/oss/article/did-you-know/pencils-never-contained-lead",
       "https://kids.britannica.com/students/article/pencil/276344",
       "https://www.encyclopedia.com/literature-and-arts/art-and-architecture/art-general/pencil"
+    ],
+    "metrics": {
+      "media_views": 157,
+      "media_reach": 118,
+      "media_reel_avg_watch_time": 8406,
+      "media_reel_skip_rate": 0.508,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 707,
+      "video_like_count": 5
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "time": "18:43",
+    "style": "lowpoly",
+    "topic": "Great Wall of China: 21,196 km long (2012 survey) yet not visible to the naked eye from orbit; Ming wall 8,850 km, Yang Liwei 'I didn't see the Great Wall'",
+    "kind": "engineering line",
+    "hook_type": "contradiction of two familiar things",
+    "title": "21,196 km / Unseen from orbit",
+    "yt_title": "21,196 km of wall you can't see from space #Shorts",
+    "video": "v/2026-11-24-1843-great-wall-orbit.mp4",
+    "instagram_media_id": "18027353546940747",
+    "youtube_video_id": "pIQ3PgWt9aY",
+    "experiment": "Myth-bust angle on a map (lowpoly), third myth-bust test after bacteria (data) and pencil (exploded); 22.3 s, 60 words, twist (astronaut quote) at ~7.4 s",
+    "narration": "The Great Wall stretches over twenty-one thousand kilometres. The Ming wall alone runs eight thousand, eight hundred and fifty kilometres. Yet China's first astronaut looked down from orbit and said: I didn't see the Great Wall. Twenty-one thousand, one hundred and ninety-six kilometres. From four hundred kilometres up, how do you miss it? Long, yes. But under ten metres wide.",
+    "sources": [
+      "https://www.livescience.com/20840-great-wall-china-long-thought.html",
+      "https://www.britannica.com/topic/Great-Wall-of-China",
+      "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf",
+      "https://www.scientificamerican.com/article/no-you-cant-see-the-great-wall-of-china-from-space/",
+      "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth",
+      "https://britannica.com/question/Can-you-see-the-Great-Wall-of-China-from-space"
     ]
   }
 ]
