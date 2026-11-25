@@ -409,7 +409,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1782,
+      "video_view_count": 1783,
       "video_like_count": 10
     }
   },
@@ -469,7 +469,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 871,
+      "video_view_count": 870,
       "video_like_count": 1
     }
   },
@@ -495,7 +495,7 @@
     "metrics": {
       "media_views": 141,
       "media_reach": 125,
-      "media_reel_avg_watch_time": 5948,
+      "media_reel_avg_watch_time": 5905,
       "media_reel_skip_rate": 0.536,
       "media_reel_total_interactions": 0,
       "media_shares": 0,
@@ -535,8 +535,8 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1153,
-      "video_like_count": 12
+      "video_view_count": 1280,
+      "video_like_count": 17
     }
   },
   {
@@ -566,8 +566,8 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 257,
-      "video_like_count": 1
+      "video_view_count": 274,
+      "video_like_count": 2
     }
   },
   {
@@ -591,15 +591,15 @@
     "metrics": {
       "media_views": 157,
       "media_reach": 118,
-      "media_reel_avg_watch_time": 8406,
+      "media_reel_avg_watch_time": 8350,
       "media_reel_skip_rate": 0.508,
       "media_reel_total_interactions": 1,
       "media_shares": 0,
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 707,
-      "video_like_count": 5
+      "video_view_count": 875,
+      "video_like_count": 6
     }
   },
   {
@@ -623,6 +623,40 @@
       "https://www.scientificamerican.com/article/no-you-cant-see-the-great-wall-of-china-from-space/",
       "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth",
       "https://britannica.com/question/Can-you-see-the-Great-Wall-of-China-from-space"
+    ],
+    "metrics": {
+      "media_views": 161,
+      "media_reach": 138,
+      "media_reel_avg_watch_time": 6905,
+      "media_reel_skip_rate": 0.58,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 333,
+      "video_like_count": 2
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "time": "12:38",
+    "style": "cosmic",
+    "topic": "Pluto (2,377 km) is smaller than our Moon (3,475 km); Earth is 5.4x wider; 7 moons (Ganymede, Titan, Callisto, Io, Moon, Europa, Triton) are bigger than Pluto",
+    "kind": "size comparison",
+    "hook_type": "contradiction of two familiar things",
+    "title": "Pluto's smaller than our Moon",
+    "video": "v/2026-11-25-1238-pluto-smaller-moon.mp4",
+    "instagram_media_id": "17894628222456130",
+    "youtube_video_id": "_R83Xe1HWqE",
+    "experiment": "Myth-bust framing ('our old ninth planet') in cosmic, the best style (4th myth-bust test after bacteria, pencil, Great Wall); 21.4 s, 60 words, second twist (7 moons bigger) at ~9.6 s",
+    "narration": "Pluto, our old ninth planet, is smaller than the Moon. Pluto is just two thousand three hundred and seventy-seven kilometres wide. Beside Earth, it's a tiny speck. Seven moons in our solar system are bigger than Pluto, from Jupiter's Ganymede to our own. So, do you still picture it as the ninth planet? Once a planet. Smaller than a moon.",
+    "sources": [
+      "https://science.nasa.gov/dwarf-planets/pluto/facts",
+      "https://www.nasa.gov/solar-system/how-big-is-pluto-new-horizons-settles-decades-long-debate/",
+      "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
+      "https://nssdc.gsfc.nasa.gov/planetary/factsheet/galileanfact_table.html",
+      "https://pressbooks.online.ucf.edu/astronomybc/chapter/12-1-ring-and-moon-systems-introduced/"
     ]
   }
 ]
