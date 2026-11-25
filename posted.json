@@ -535,8 +535,8 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1280,
-      "video_like_count": 17
+      "video_view_count": 1285,
+      "video_like_count": 16
     }
   },
   {
@@ -566,8 +566,8 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 274,
-      "video_like_count": 2
+      "video_view_count": 282,
+      "video_like_count": 1
     }
   },
   {
@@ -598,7 +598,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 875,
+      "video_view_count": 874,
       "video_like_count": 6
     }
   },
@@ -634,7 +634,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 333,
+      "video_view_count": 279,
       "video_like_count": 2
     }
   },
@@ -657,6 +657,37 @@
       "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
       "https://nssdc.gsfc.nasa.gov/planetary/factsheet/galileanfact_table.html",
       "https://pressbooks.online.ucf.edu/astronomybc/chapter/12-1-ring-and-moon-systems-introduced/"
+    ],
+    "metrics": {
+      "media_views": 146,
+      "media_reach": 115,
+      "media_reel_avg_watch_time": 8549,
+      "media_reel_skip_rate": 0.431,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 1030,
+      "video_like_count": 15
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "time": "18:50",
+    "style": "lowpoly",
+    "topic": "First transcontinental railroad, Sacramento and Omaha to Promontory, 1863-1869",
+    "kind": "engineering line",
+    "hook_type": "race / stakes",
+    "title": "Months to Under a Week",
+    "video": "v/2026-11-25-1850-transcontinental-rail.mp4",
+    "instagram_media_id": "18116981894142416",
+    "youtube_video_id": "Wfz5qo4FzWs",
+    "experiment": "Race / stakes + time-collapse hook in lowpoly (first race hook outside parchment, after Great Wall myth-bust); held 22.8 s, 60 words, number (3,000 miles) on first screen, routes drawn sequentially while spoken",
+    "narration": "Crossing America took months. Then, under a week. In eighteen sixty-three, one railroad lays track east from Sacramento. A rival races west from Omaha, paid in bonds for every mile. Nearly eighteen hundred miles of track, joined in Utah in eighteen sixty-nine. So how long did the crossing take now? Months by wagon or ship. Under a week by rail.",
+    "sources": [
+      "https://www.history.com/articles/transcontinental-railroad",
+      "https://www.pbs.org/wgbh/americanexperience/features/tcrr-timeline/"
     ]
   }
 ]
