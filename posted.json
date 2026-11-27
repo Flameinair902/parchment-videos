@@ -1,757 +1,792 @@
 [
- {
-  "date": "2026-11-14",
-  "topic": "Kon-Tiki raft voyage, Peru to Raroia, 1947",
-  "kind": "famous voyage",
-  "title": "Six men, one Balsa Raft",
-  "video": "v/2026-11-14-kon-tiki.mp4",
-  "instagram_media_id": "18104064239363102",
-  "style": "parchment",
-  "hook_type": "single-subject story"
- },
- {
-  "date": "2026-11-15",
-  "topic": "Bar-tailed godwit E7 non-stop flight, Alaska to New Zealand, 2007",
-  "kind": "science journey",
-  "title": "One small bird, Godwit E7",
-  "video": "v/2026-11-15-godwit-e7.mp4",
-  "instagram_media_id": "17934074118166846",
-  "sources": [
-   "https://www.allaboutbirds.org/news/?p=12506",
-   "https://www.sciencenews.org/article/avian-airlines-alaska-new-zealand-nonstop",
-   "https://shorebirds.org.nz/news-2/e7-a-godwit-on-a-mission"
-  ],
-  "style": "parchment",
-  "metrics": {
-   "media_views": 140,
-   "media_reach": 109,
-   "media_reel_avg_watch_time": 8598,
-   "media_reel_skip_rate": 0.615,
-   "media_reel_total_interactions": 1,
-   "media_shares": 0,
-   "media_saved": 0
+  {
+    "date": "2026-11-14",
+    "topic": "Kon-Tiki raft voyage, Peru to Raroia, 1947",
+    "kind": "famous voyage",
+    "title": "Six men, one Balsa Raft",
+    "video": "v/2026-11-14-kon-tiki.mp4",
+    "instagram_media_id": "18104064239363102",
+    "style": "parchment",
+    "hook_type": "single-subject story"
   },
-  "hook_type": "single-subject story"
- },
- {
-  "date": "2026-11-15",
-  "topic": "Jeanne Baret, first woman to circumnavigate the globe, disguised as a man (1766-1775)",
-  "kind": "famous voyage",
-  "title": "The man who wasn't: Jeanne Baret",
-  "video": "v/2026-11-15-jeanne-baret.mp4",
-  "instagram_media_id": "18154126747558901",
-  "sources": [
-   "https://www.britannica.com/biography/Jeanne-Baret",
-   "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
-   "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
-   "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
-   "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
-  ],
-  "style": "parchment",
-  "hook_type": "hidden identity / secret"
- },
- {
-  "date": "2026-11-15",
-  "topic": "Jeanne Baret, first woman to circumnavigate the globe, disguised as a man (1766-1775) - v2 re-cut with clearer hook",
-  "kind": "famous voyage",
-  "title": "A woman in disguise: Jeanne Baret",
-  "video": "v/2026-11-15-jeanne-baret-v2.mp4",
-  "instagram_media_id": "17891851527653229",
-  "replaces_media_id": "18154126747558901",
-  "sources": [
-   "https://www.britannica.com/biography/Jeanne-Baret",
-   "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
-   "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
-   "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
-   "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
-  ],
-  "style": "parchment",
-  "metrics": {
-   "media_views": 166,
-   "media_reach": 149,
-   "media_reel_avg_watch_time": 7231,
-   "media_reel_skip_rate": 0.497,
-   "media_reel_total_interactions": 1,
-   "media_shares": 0,
-   "media_saved": 0
+  {
+    "date": "2026-11-15",
+    "topic": "Bar-tailed godwit E7 non-stop flight, Alaska to New Zealand, 2007",
+    "kind": "science journey",
+    "title": "One small bird, Godwit E7",
+    "video": "v/2026-11-15-godwit-e7.mp4",
+    "instagram_media_id": "17934074118166846",
+    "sources": [
+      "https://www.allaboutbirds.org/news/?p=12506",
+      "https://www.sciencenews.org/article/avian-airlines-alaska-new-zealand-nonstop",
+      "https://shorebirds.org.nz/news-2/e7-a-godwit-on-a-mission"
+    ],
+    "style": "parchment",
+    "metrics": {
+      "media_views": 140,
+      "media_reach": 109,
+      "media_reel_avg_watch_time": 8598,
+      "media_reel_skip_rate": 0.615,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "hook_type": "single-subject story"
   },
-  "hook_type": "hidden identity / secret"
- },
- {
-  "date": "2026-11-15",
-  "topic": "Great Tea Race of 1866, clippers Ariel and Taeping, Fuzhou to London",
-  "kind": "historic route",
-  "title": "A 99-day dead heat / Tea Race",
-  "video": "v/2026-11-15-great-tea-race.mp4",
-  "instagram_media_id": "18173187070461536",
-  "narration": "Sixteen thousand miles at sea, decided by minutes. May 1866. Tea clippers leave China on the same tide, racing for a prize. Off Borneo, rivals Ariel and Taeping spot each other again. Three months out, four ships pass the Azores on the same day. Ariel and Taeping charge up the Channel together. Who wins? Ninety-nine days at sea. Taeping docks first, by minutes. Then they split the prize.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Great_Tea_Race_of_1866",
-   "https://www.rmg.co.uk/collections/objects/rmgc-object-66935",
-   "https://www.smithsonianmag.com/history/the-great-tea-race-of-1866-8209465/"
-  ],
-  "style": "parchment",
-  "metrics": {
-   "media_views": 1309,
-   "media_reach": 1016,
-   "media_reel_avg_watch_time": 13350,
-   "media_reel_skip_rate": 0.33,
-   "media_reel_total_interactions": 3,
-   "media_shares": 0,
-   "media_saved": 0
+  {
+    "date": "2026-11-15",
+    "topic": "Jeanne Baret, first woman to circumnavigate the globe, disguised as a man (1766-1775)",
+    "kind": "famous voyage",
+    "title": "The man who wasn't: Jeanne Baret",
+    "video": "v/2026-11-15-jeanne-baret.mp4",
+    "instagram_media_id": "18154126747558901",
+    "sources": [
+      "https://www.britannica.com/biography/Jeanne-Baret",
+      "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
+      "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
+      "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
+      "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
+    ],
+    "style": "parchment",
+    "hook_type": "hidden identity / secret"
   },
-  "youtube_video_id": "7LrsHl-pvXc",
-  "hook_type": "race / stakes",
-  "yt_metrics": {
-   "video_view_count": 662,
-   "video_like_count": 6
+  {
+    "date": "2026-11-15",
+    "topic": "Jeanne Baret, first woman to circumnavigate the globe, disguised as a man (1766-1775) - v2 re-cut with clearer hook",
+    "kind": "famous voyage",
+    "title": "A woman in disguise: Jeanne Baret",
+    "video": "v/2026-11-15-jeanne-baret-v2.mp4",
+    "instagram_media_id": "17891851527653229",
+    "replaces_media_id": "18154126747558901",
+    "sources": [
+      "https://www.britannica.com/biography/Jeanne-Baret",
+      "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
+      "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296",
+      "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/Jeanne_Baret.html",
+      "https://en.wikipedia.org/wiki/French_fluyt_Etoile_(1767)"
+    ],
+    "style": "parchment",
+    "metrics": {
+      "media_views": 166,
+      "media_reach": 149,
+      "media_reel_avg_watch_time": 7231,
+      "media_reel_skip_rate": 0.497,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "hook_type": "hidden identity / secret"
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "Great Tea Race of 1866, clippers Ariel and Taeping, Fuzhou to London",
+    "kind": "historic route",
+    "title": "A 99-day dead heat / Tea Race",
+    "video": "v/2026-11-15-great-tea-race.mp4",
+    "instagram_media_id": "18173187070461536",
+    "narration": "Sixteen thousand miles at sea, decided by minutes. May 1866. Tea clippers leave China on the same tide, racing for a prize. Off Borneo, rivals Ariel and Taeping spot each other again. Three months out, four ships pass the Azores on the same day. Ariel and Taeping charge up the Channel together. Who wins? Ninety-nine days at sea. Taeping docks first, by minutes. Then they split the prize.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Great_Tea_Race_of_1866",
+      "https://www.rmg.co.uk/collections/objects/rmgc-object-66935",
+      "https://www.smithsonianmag.com/history/the-great-tea-race-of-1866-8209465/"
+    ],
+    "style": "parchment",
+    "metrics": {
+      "media_views": 1309,
+      "media_reach": 1016,
+      "media_reel_avg_watch_time": 13350,
+      "media_reel_skip_rate": 0.33,
+      "media_reel_total_interactions": 3,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "youtube_video_id": "7LrsHl-pvXc",
+    "hook_type": "race / stakes",
+    "yt_metrics": {
+      "video_view_count": 663,
+      "video_like_count": 6
+    }
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "Adelita the loggerhead turtle, satellite-tracked from Baja California to Japan, 1996-97",
+    "kind": "science journey",
+    "title": "From a tank to / Japan",
+    "video": "v/2026-11-15-adelita-turtle.mp4",
+    "instagram_media_id": "18457774447123716",
+    "narration": "A turtle raised in a tank swam across the Pacific. August, nineteen ninety-six. Scientists free her in Mexico, with a satellite tag. No animal had ever been tracked across an ocean. She swims west, day and night. Three hundred and sixty-eight days later, she reaches Japan. More than eleven thousand five hundred kilometres. How did she find the way? Raised in a tank, she still found Japan.",
+    "sources": [
+      "https://www.wallacejnichols.org/101/80/bulletin-of-marine-science-transpacific-sea-turtle-migration.html",
+      "https://www.pbs.org/wnet/nature/voyage-of-the-lonely-turtle-interview-wallace-j-nichols/2508",
+      "https://en.wikipedia.org/wiki/Adelita_(turtle)"
+    ],
+    "style": "parchment",
+    "metrics": {
+      "media_views": 223,
+      "media_reach": 198,
+      "media_reel_avg_watch_time": 6821,
+      "media_reel_skip_rate": 0.508,
+      "media_reel_total_interactions": 2,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "hook_type": "single-subject story"
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "William Bligh's open-boat voyage after the Bounty mutiny, Tofua to Timor, 1789",
+    "kind": "famous voyage",
+    "title": "Cast adrift, no charts: / 6,700 km",
+    "video": "v/2026-11-15-bligh-open-boat.mp4",
+    "instagram_media_id": "17917830255472121",
+    "narration": "No charts. One open boat. Sixty-seven hundred kilometres. April, seventeen eighty-nine. Mutineers force nineteen men into a seven-metre boat. Islanders on Tofua have killed one. Now there are no charts, no guns, meagre rations. May twenty-ninth. They land off Australia, hunting for food. Will they make it? June fourteenth. Forty-one days at sea, they reach Timor. Sixty-seven hundred kilometres. Just one man lost.",
+    "sources": [
+      "https://www.rmg.co.uk/collections/objects/rmgc-object-149152",
+      "https://rmg.co.uk/collections/objects/rmgc-object-68947",
+      "https://sea.museum/2019/06/14/a-mutiny-and-a-mystery-what-happened-to-fletcher-christian-and-the-bounty-mutineers",
+      "https://www.slq.qld.gov.au/blog/queensland-places-restoration"
+    ],
+    "style": "parchment",
+    "metrics": {
+      "media_views": 122,
+      "media_reach": 104,
+      "media_reel_avg_watch_time": 6903,
+      "media_reel_skip_rate": 0.548,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "hook_type": "survival / stakes"
+  },
+  {
+    "date": "2026-11-16",
+    "time": "12:38",
+    "style": "cosmic",
+    "topic": "Star size comparison: Sun, Sirius A, Rigel, Betelgeuse (Betelgeuse ~700x wider than the Sun)",
+    "kind": "star size comparison",
+    "title": "OUR SUN IS TINY.",
+    "video": "v/2026-11-16-1238-betelgeuse.mp4",
+    "instagram_media_id": "18103077116381939",
+    "youtube_video_id": "GNtXbVjir58",
+    "narration": "This is our Sun. It's about to look tiny. Sirius, the brightest star in our night sky, is not even twice as wide. Rigel, in Orion, is about seventy-four Suns across. Then there's Betelgeuse, the red shoulder of Orion. It's about seven hundred times wider than our Sun. So what if it sat where our Sun is? It would swallow Earth and Mars.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Betelgeuse",
+      "https://en.wikipedia.org/wiki/Rigel",
+      "https://en.wikipedia.org/wiki/Sirius"
+    ],
+    "metrics": {
+      "media_views": 230,
+      "media_reach": 169,
+      "media_reel_avg_watch_time": 9598,
+      "media_reel_skip_rate": 0.414,
+      "media_reel_total_interactions": 4,
+      "media_shares": 1,
+      "media_saved": 0
+    },
+    "hook_type": "you-think-big-but comparison",
+    "yt_metrics": {
+      "video_view_count": 7,
+      "video_like_count": 0
+    }
+  },
+  {
+    "date": "2026-11-16",
+    "time": "18:02",
+    "style": "data",
+    "topic": "Earth has more trees (3.04 trillion) than the Milky Way has stars (100-400 billion)",
+    "kind": "surprising statistic",
+    "title": "More trees than stars",
+    "video": "v/2026-11-16-1802-trees-vs-stars.mp4",
+    "instagram_media_id": "18111814036914972",
+    "youtube_video_id": "4nfskeLS2zU",
+    "narration": "Earth has more trees than our galaxy has stars. About three trillion, counted from satellites and ground surveys. Our galaxy has one hundred to four hundred billion stars. That's roughly four hundred trees for every person. Even against the highest star count, trees win by seven to one. So they're safe, right? We lose fifteen billion every single year.",
+    "sources": [
+      "https://news.yale.edu/2015/09/02/seeing-forest-and-trees-all-3-trillion-them",
+      "https://science.nasa.gov/universe/stories/quick-reads/how-big-is-our-galaxy-the-milky-way/",
+      "https://www.prb.org/articles/how-many-people"
+    ],
+    "notes": "Retention-focused cut: contradiction hook spoken from frame 0, on-screen number counting up in first second, ~22 s, open-loop question before twist ending, speed 1.08",
+    "metrics": {
+      "media_views": 196,
+      "media_reach": 142,
+      "media_reel_avg_watch_time": 12465,
+      "media_reel_skip_rate": 0.286,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "hook_type": "contradiction of two familiar things",
+    "yt_metrics": {
+      "video_view_count": 3,
+      "video_like_count": 0
+    }
+  },
+  {
+    "date": "2026-11-16",
+    "time": "18:39",
+    "style": "exploded",
+    "topic": "Inside an ionisation smoke alarm: the americium-241 chamber",
+    "kind": "inside everyday object",
+    "title": "ON YOUR CEILING: RADIOACTIVE METAL",
+    "video": "v/2026-11-16-1839-smoke-alarm.mp4",
+    "instagram_media_id": "17968224594219009",
+    "youtube_video_id": "H2ZnE7uPZpQ",
+    "narration": "There may be radioactive metal on your ceiling. Pop the cover off a smoke alarm. Inside sits a tiny metal chamber. Below it, a circuit board and a loud horn. A nine-volt battery powers it all. A base plate holds it up there. In many alarms, that chamber holds americium two forty-one, made in nuclear reactors. It ionises the air so a tiny current flows. Smoke breaks it, and the alarm screams. So is it dangerous? Its alpha particles can't pass paper.",
+    "sources": [
+      "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/smoke-detectors.html",
+      "https://19january2025snapshot.epa.gov/radiation/radionuclide-basics-americium-241",
+      "https://19january2025snapshot.epa.gov/radtown/americium-ionization-smoke-detectors",
+      "https://sciencedemonstrations.fas.harvard.edu/presentations/α-β-γ-penetration-and-shielding"
+    ],
+    "metrics": {
+      "media_views": 116,
+      "media_reach": 105,
+      "media_reel_avg_watch_time": 4873,
+      "media_reel_skip_rate": 0.745,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "hook_type": "warning / danger at home",
+    "yt_metrics": {
+      "video_view_count": 7,
+      "video_like_count": 0
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "time": "12:47",
+    "style": "lowpoly",
+    "topic": "Hannibal's march with 37 war elephants from Spain over the Alps, 218 BC",
+    "kind": "military march",
+    "title": "Elephants Over the Alps",
+    "video": "v/2026-11-17-1247-hannibal-alps.mp4",
+    "instagram_media_id": "18202562113382452",
+    "youtube_video_id": "DV3XYRFqlNw",
+    "narration": "This general marched war elephants over the Alps. Two hundred and eighteen BC. Hannibal leads his army north from Spain, with thirty-seven elephants. Over the Pyrenees, then across the river Rhône. Then the Alps. Snow on the passes, and tribes rolling boulders from above. Fifteen days to cross the mountains. Who would try that with elephants? Five months. One legendary march.",
+    "sources": [
+      "https://www.britannica.com/biography/Hannibal-Carthaginian-general-247-183-BCE",
+      "https://kids.britannica.com/students/article/Hannibal/274766",
+      "https://www.livius.org/articles/person/hannibal-3-barca/hannibal-in-the-alps",
+      "https://www.history.com/articles/hannibal-crosses-alps"
+    ],
+    "metrics": {
+      "media_views": 162,
+      "media_reach": 133,
+      "media_reel_avg_watch_time": 7981,
+      "media_reel_skip_rate": 0.53,
+      "media_reel_total_interactions": 2,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "hook_type": "single-subject story",
+    "yt_metrics": {
+      "video_view_count": 39,
+      "video_like_count": 1
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "time": "18:41",
+    "style": "data",
+    "topic": "Cost of sequencing one human genome: $95.3M (2001) to ~$525 (2022), ~180,000x cheaper, out-paced Moore's Law",
+    "kind": "surprising statistic",
+    "title": "Your DNA once cost $95 million to read",
+    "video": "v/2026-11-17-1839-genome-cost.mp4",
+    "instagram_media_id": "18158233348535858",
+    "youtube_video_id": "pthRk0XGBZU",
+    "narration": "Reading your DNA cost ninety-five million dollars. That was in two thousand and one. Then, in two thousand and eight, new sequencing machines arrived. The price fell ninety-nine point six percent in seven years. And it kept on falling. By twenty twenty-two, about five hundred and twenty-five dollars. Put the two price tags side by side. A hundred and eighty thousand times cheaper. Did computer chips keep up? It outran Moore's law.",
+    "sources": [
+      "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data",
+      "https://ourworldindata.org/grapher/cost-of-sequencing-a-full-human-genome"
+    ],
+    "metrics": {
+      "media_views": 150,
+      "media_reach": 124,
+      "media_reel_avg_watch_time": 9620,
+      "media_reel_skip_rate": 0.575,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "hook_type": "huge number / price collapse",
+    "yt_metrics": {
+      "video_view_count": 663,
+      "video_like_count": 2
+    }
+  },
+  {
+    "date": "2026-11-18",
+    "time": "12:47",
+    "style": "lowpoly",
+    "topic": "Pony Express lasted only ~18 months (Apr 1860–Oct 1861), St. Joseph to Sacramento ~1,800 miles in ~10 days, killed by the transcontinental telegraph meeting at Salt Lake City",
+    "kind": "historic route",
+    "title": "Pony Express: Only 18 Months",
+    "video": "v/2026-11-18-1247-pony-express.mp4",
+    "instagram_media_id": "18119698205274760",
+    "youtube_video_id": "bvn6R3E4w4o",
+    "narration": "The Pony Express lasted just eighteen months. April eighteen sixty. Riders gallop west from Saint Joseph, Missouri. Relay riders carry mail about eighteen hundred miles in ten days. But telegraph crews are stringing wire west from Nebraska. Another crew heads east from Nevada. They meet in Salt Lake City. October eighteen sixty-one, the wire goes live. Who needs a horse now? Two days later, the riders stopped.",
+    "sources": [
+      "https://www.nps.gov/poex/learn/historyculture/index.htm",
+      "https://facts.usps.com/pony-express-history/",
+      "https://en.wikipedia.org/wiki/First_transcontinental_telegraph",
+      "https://en.wikipedia.org/wiki/Overland_Telegraph_Company"
+    ],
+    "hook_type": "surprising short duration",
+    "yt_metrics": {
+      "video_view_count": 6,
+      "video_like_count": 0
+    },
+    "metrics": {
+      "media_views": 147,
+      "media_reach": 121,
+      "media_reel_avg_watch_time": 10233,
+      "media_reel_skip_rate": 0.378,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    }
+  },
+  {
+    "date": "2026-11-18",
+    "time": "18:44",
+    "style": "exploded",
+    "topic": "Inside a contactless bank card: laminated layers, chip and copper coil antenna; no battery, powered by the reader's field",
+    "kind": "inside everyday object",
+    "title": "YOUR CARD HAS AN ANTENNA",
+    "video": "v/2026-11-18-1844-card-antenna.mp4",
+    "instagram_media_id": "18394445989163270",
+    "youtube_video_id": "cImuVPpgbIA",
+    "narration": "Your bank card has a hidden antenna. Peel it apart. A clear plastic skin on top. Next, the printed front. Then the middle layer, hiding the chip and a coil of copper wire. Below that, the printed back. One more clear skin. All of it under one millimetre thick. That coil is an antenna. Within about ten centimetres of a reader, it catches its magnetic field. But there's no battery inside. So what powers the chip? No battery. The field powers it.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ISO/IEC_7810",
+      "https://en.wikipedia.org/wiki/Contactless_smart_card",
+      "https://www.securetechalliance.org/smart-cards-faq/",
+      "https://arxiv.org/pdf/1507.06427"
+    ],
+    "hook_type": "hidden thing in everyday object",
+    "yt_metrics": {
+      "video_view_count": 75,
+      "video_like_count": 0
+    },
+    "metrics": {
+      "media_views": 134,
+      "media_reach": 119,
+      "media_reel_avg_watch_time": 6003,
+      "media_reel_skip_rate": 0.625,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "time": "12:49",
+    "style": "cosmic",
+    "topic": "Two moons (Titan 5,150 km and Ganymede 5,268 km) are wider than the planet Mercury (4,879 km), though Mercury has about twice Ganymede's mass",
+    "kind": "size comparison",
+    "hook_type": "contradiction of two familiar things",
+    "title": "2 MOONS BIGGER THAN A PLANET",
+    "video": "v/2026-11-19-1249-moons-vs-mercury.mp4",
+    "instagram_media_id": "18649414438041548",
+    "youtube_video_id": "FUFOqrqjOL8",
+    "experiment": "Specific either/or comment prompt in caption: 'which did you think was bigger, Mercury or Ganymede?'",
+    "narration": "Two moons are bigger than a whole planet. Meet Mercury, the smallest planet. Our Moon is only a bit smaller. Now Saturn's moon Titan. It's wider than Mercury. And Jupiter's Ganymede, the biggest moon of all, is five thousand two hundred and sixty-eight kilometres across. But Mercury is about twice as heavy. So why isn't Ganymede called a planet? It circles Jupiter, not the Sun.",
+    "sources": [
+      "https://sci.esa.int/web/juice/-/59905-juice-s-primary-target-ganymede",
+      "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
+      "https://www.britannica.com/place/Titan-astronomy",
+      "https://science.nasa.gov/mercury/facts/",
+      "https://science.nasa.gov/moon/facts/"
+    ],
+    "metrics": {
+      "media_views": 175,
+      "media_reach": 133,
+      "media_reel_avg_watch_time": 10959,
+      "media_reel_skip_rate": 0.408,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 1786,
+      "video_like_count": 10
+    }
+  },
+  {
+    "date": "2026-11-21",
+    "time": "12:42",
+    "style": "lowpoly",
+    "topic": "Panama Canal: sailing Atlantic to Pacific you end ~39 km further east; 82 km, opened 1914, saves ~8,000 nmi vs Cape Horn",
+    "kind": "engineering line",
+    "hook_type": "contradiction of two familiar things",
+    "title": "To the Pacific? Sail East.",
+    "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-21-1242-panama-canal-east.mp4",
+    "instagram_media_id": null,
+    "instagram_error": "Account restricted (Das Instagram-Konto wurde eingeschränkt)",
+    "youtube_video_id": "Mk7f-JrD9-w",
+    "youtube_title": "Sail to the Pacific… and end up 39 km EAST #Shorts",
+    "experiment": "Shortest video yet: 22.4 s, 57 words (length band test), contradiction hook on a map",
+    "narration": "Reach the Pacific here, and you're thirty-nine kilometres east. This is the Panama Canal. Eighty-two kilometres, opened in nineteen fourteen. Panama lies on its side, so ships leave Colón heading south-east, not west. It spares them about eight thousand nautical miles round Cape Horn. So which way are they really sailing? West to east. Atlantic to Pacific.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Panama_Canal",
+      "https://www.britannica.com/topic/Panama-Canal",
+      "https://www.britannica.com/question/Why-is-the-Panama-Canal-important",
+      "https://en.wikipedia.org/wiki/Atlantic_Bridge,_Panama",
+      "https://en.wikipedia.org/wiki/Bridge_of_the_Americas"
+    ],
+    "yt_metrics": {
+      "video_view_count": 434,
+      "video_like_count": 0
+    }
+  },
+  {
+    "date": "2026-11-21",
+    "time": "18:44",
+    "style": "exploded",
+    "topic": "Long-life 'paper' juice carton is 6 layers incl. aluminium foil; ~74% paper, 22% polyethylene, 4% aluminium by weight",
+    "kind": "inside everyday object",
+    "hook_type": "contradiction of two familiar things",
+    "title": "Paper carton? 6 layers, 1 metal",
+    "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-21-1844-carton-foil.mp4",
+    "instagram_media_id": "18137817698505824",
+    "youtube_video_id": "ZDzCFqFc-2A",
+    "youtube_title": "Your paper juice carton is hiding metal #Shorts",
+    "experiment": "Request-style comment prompt ('What everyday object should we take apart next?') instead of either/or; exploded kept to 23 s / 62 words with a contradiction hook",
+    "narration": "This paper juice carton is six layers. One is metal. Peel them apart. Plastic, then paperboard for strength. More plastic glues on... this. Then two more plastic layers seal in the juice. That shiny sheet is foil. It blocks light and air, so long-life juice keeps without a fridge. So what is it really made of? Seventy-four percent paper. Four percent metal.",
+    "sources": [
+      "https://loraincountyohio.gov/DocumentCenter/View/223",
+      "https://waste360.com/industry-insights/profiles-in-garbage-aseptic-boxes-cartons",
+      "https://www.sig.biz/en/news-insights/blog/deconstructing-an-aseptic-carton"
+    ],
+    "metrics": {
+      "media_views": 157,
+      "media_reach": 138,
+      "media_reel_avg_watch_time": 8080,
+      "media_reel_skip_rate": 0.515,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 874,
+      "video_like_count": 1
+    }
+  },
+  {
+    "date": "2026-11-22",
+    "time": "12:40",
+    "style": "data",
+    "topic": "Cleopatra (d. 30 BC) lived closer in time to the Apollo 11 Moon landing (1969) than to the building of the Great Pyramid (c. 2560 BC): 2,530 vs 1,998 years",
+    "kind": "surprising statistic",
+    "hook_type": "contradiction of two familiar things",
+    "title": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-22-1240-cleopatra-moon.mp4",
+    "instagram_media_id": "17914170885583493",
+    "youtube_video_id": "JrkkTNtY-pE",
+    "experiment": "Payoff stated in the first spoken line (the flip at 0 s, then proved with numbers); 22.6 s, 64 words; data style used for a history timeline",
+    "narration": "Cleopatra lived nearer the Moon landing than the pyramids. The Great Pyramid was already two and a half thousand years old. Now count the years on either side of her. From her to Apollo eleven: under two thousand. Pyramid to Cleopatra: two thousand five hundred and thirty. Over five hundred years more. So what counts as ancient? To Cleopatra, the pyramids were ancient too.",
+    "sources": [
+      "https://www.britannica.com/place/Great-Pyramid-of-Giza",
+      "https://www.worldhistory.org/image/15685/the-great-pyramid-pyramid-of-khufu-c-2560-bce/",
+      "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+      "https://www.nasa.gov/history/55-years-ago-apollo-11s-one-small-step-one-giant-leap"
+    ],
+    "metrics": {
+      "media_views": 141,
+      "media_reach": 125,
+      "media_reel_avg_watch_time": 5905,
+      "media_reel_skip_rate": 0.536,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 114,
+      "video_like_count": 1
+    }
+  },
+  {
+    "date": "2026-11-23",
+    "time": "12:38",
+    "style": "cosmic",
+    "topic": "The Sun is ~400x wider than the Moon (3,475 km vs 1,391,400 km) but also ~400x farther away, so they look the same size: total solar eclipses",
+    "kind": "size comparison",
+    "hook_type": "contradiction of two familiar things",
+    "title": "The Sun is 400x wider than the Moon",
+    "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-23-1238-sun-moon-400x.mp4",
+    "instagram_media_id": "18121273954794070",
+    "youtube_video_id": "CChryIDfLNI",
+    "experiment": "Plain open comment question in caption ('Have you ever seen a total solar eclipse?'); also first cosmic with two everyday sky objects. 21.1 s, 63 words, payoff (why) held to ~12 s.",
+    "narration": "The Sun is four hundred times wider than the Moon. Start with the Moon. Earth is less than four Moons across. Now the Sun. One hundred and nine Earths wide. So why do they look the same size in our sky? Because the Sun is also about four hundred times farther away. And that coincidence gives us... The perfect fit: total solar eclipses.",
+    "sources": [
+      "https://spaceplace.nasa.gov/total-solar-eclipse/en/",
+      "https://science.nasa.gov/eclipses/geometry",
+      "https://spaceplace.nasa.gov/sun-compare/",
+      "https://science.nasa.gov/sun/facts/"
+    ],
+    "metrics": {
+      "media_views": 180,
+      "media_reach": 136,
+      "media_reel_avg_watch_time": 10109,
+      "media_reel_skip_rate": 0.422,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 1295,
+      "video_like_count": 16
+    }
+  },
+  {
+    "date": "2026-11-23",
+    "time": "18:39",
+    "style": "data",
+    "topic": "About 38 trillion bacteria vs 30 trillion human cells in a 70 kg adult (84% of human cells are red blood cells), yet the bacteria weigh only ~0.2 kg",
+    "kind": "surprising statistic",
+    "hook_type": "contradiction of two familiar things",
+    "title": "38 trillion bacteria outnumber your cells",
+    "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-23-1839-bacteria-38-trillion.mp4",
+    "instagram_media_id": "18449159563132703",
+    "youtube_video_id": "5G57LsZCF34",
+    "experiment": "Data style on an everyday body topic (not history), myth-check comment question ('Did you think the old 10 to 1 figure was true?'). 22.1 s, 65 words, twist (red blood cells) at ~8 s.",
+    "narration": "Thirty-eight trillion bacteria live in your body. That's more than all of your own cells combined. Your body is built from about thirty trillion human cells. And most of those are tiny red blood cells. But put every bacterium on a scale, and they weigh about two hundred grams. You outweigh them three hundred and fifty times. So who's really winning? Outnumbered, but not outweighed.",
+    "sources": [
+      "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533",
+      "https://wis-wander.weizmann.ac.il/node/7871"
+    ],
+    "metrics": {
+      "media_views": 115,
+      "media_reach": 99,
+      "media_reel_avg_watch_time": 6431,
+      "media_reel_skip_rate": 0.598,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 284,
+      "video_like_count": 1
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "time": "12:34",
+    "style": "exploded",
+    "topic": "'Lead' pencils contain no lead: the core is graphite + clay between two glued cedar halves; named 'black lead' after the 1564 Borrowdale graphite find",
+    "kind": "inside everyday object",
+    "hook_type": "contradiction of two familiar things",
+    "title": "Your lead pencil has zero lead",
+    "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-24-1234-pencil-zero-lead.mp4",
+    "instagram_media_id": "18499271902111920",
+    "youtube_video_id": "j3wcoIMm-Gg",
+    "experiment": "Myth-bust of a familiar name in exploded style (second myth-bust after bacteria; one variable vs carton): 21.8 s, 64 words, twist at ~9 s",
+    "narration": "Your lead pencil has zero lead in it. Split one open: two halves of cedar. Between them, the core we call lead. Each half is grooved, then glued around it. But it's graphite, a form of carbon, baked with clay. So why the name? In fifteen sixty-four, England found pure graphite at Borrowdale. What did they think it was? They called it black lead.",
+    "sources": [
+      "https://www.mcgill.ca/oss/article/did-you-know/pencils-never-contained-lead",
+      "https://kids.britannica.com/students/article/pencil/276344",
+      "https://www.encyclopedia.com/literature-and-arts/art-and-architecture/art-general/pencil"
+    ],
+    "metrics": {
+      "media_views": 157,
+      "media_reach": 118,
+      "media_reel_avg_watch_time": 8350,
+      "media_reel_skip_rate": 0.508,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 989,
+      "video_like_count": 7
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "time": "18:43",
+    "style": "lowpoly",
+    "topic": "Great Wall of China: 21,196 km long (2012 survey) yet not visible to the naked eye from orbit; Ming wall 8,850 km, Yang Liwei 'I didn't see the Great Wall'",
+    "kind": "engineering line",
+    "hook_type": "contradiction of two familiar things",
+    "title": "21,196 km / Unseen from orbit",
+    "yt_title": "21,196 km of wall you can't see from space #Shorts",
+    "video": "v/2026-11-24-1843-great-wall-orbit.mp4",
+    "instagram_media_id": "18027353546940747",
+    "youtube_video_id": "pIQ3PgWt9aY",
+    "experiment": "Myth-bust angle on a map (lowpoly), third myth-bust test after bacteria (data) and pencil (exploded); 22.3 s, 60 words, twist (astronaut quote) at ~7.4 s",
+    "narration": "The Great Wall stretches over twenty-one thousand kilometres. The Ming wall alone runs eight thousand, eight hundred and fifty kilometres. Yet China's first astronaut looked down from orbit and said: I didn't see the Great Wall. Twenty-one thousand, one hundred and ninety-six kilometres. From four hundred kilometres up, how do you miss it? Long, yes. But under ten metres wide.",
+    "sources": [
+      "https://www.livescience.com/20840-great-wall-china-long-thought.html",
+      "https://www.britannica.com/topic/Great-Wall-of-China",
+      "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf",
+      "https://www.scientificamerican.com/article/no-you-cant-see-the-great-wall-of-china-from-space/",
+      "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth",
+      "https://britannica.com/question/Can-you-see-the-Great-Wall-of-China-from-space"
+    ],
+    "metrics": {
+      "media_views": 161,
+      "media_reach": 138,
+      "media_reel_avg_watch_time": 6905,
+      "media_reel_skip_rate": 0.58,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 330,
+      "video_like_count": 3
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "time": "12:38",
+    "style": "cosmic",
+    "topic": "Pluto (2,377 km) is smaller than our Moon (3,475 km); Earth is 5.4x wider; 7 moons (Ganymede, Titan, Callisto, Io, Moon, Europa, Triton) are bigger than Pluto",
+    "kind": "size comparison",
+    "hook_type": "contradiction of two familiar things",
+    "title": "Pluto's smaller than our Moon",
+    "video": "v/2026-11-25-1238-pluto-smaller-moon.mp4",
+    "instagram_media_id": "17894628222456130",
+    "youtube_video_id": "_R83Xe1HWqE",
+    "experiment": "Myth-bust framing ('our old ninth planet') in cosmic, the best style (4th myth-bust test after bacteria, pencil, Great Wall); 21.4 s, 60 words, second twist (7 moons bigger) at ~9.6 s",
+    "narration": "Pluto, our old ninth planet, is smaller than the Moon. Pluto is just two thousand three hundred and seventy-seven kilometres wide. Beside Earth, it's a tiny speck. Seven moons in our solar system are bigger than Pluto, from Jupiter's Ganymede to our own. So, do you still picture it as the ninth planet? Once a planet. Smaller than a moon.",
+    "sources": [
+      "https://science.nasa.gov/dwarf-planets/pluto/facts",
+      "https://www.nasa.gov/solar-system/how-big-is-pluto-new-horizons-settles-decades-long-debate/",
+      "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
+      "https://nssdc.gsfc.nasa.gov/planetary/factsheet/galileanfact_table.html",
+      "https://pressbooks.online.ucf.edu/astronomybc/chapter/12-1-ring-and-moon-systems-introduced/"
+    ],
+    "metrics": {
+      "media_views": 151,
+      "media_reach": 117,
+      "media_reel_avg_watch_time": 8813,
+      "media_reel_skip_rate": 0.432,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 1221,
+      "video_like_count": 17
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "time": "18:50",
+    "style": "lowpoly",
+    "topic": "First transcontinental railroad, Sacramento and Omaha to Promontory, 1863-1869",
+    "kind": "engineering line",
+    "hook_type": "race / stakes",
+    "title": "Months to Under a Week",
+    "video": "v/2026-11-25-1850-transcontinental-rail.mp4",
+    "instagram_media_id": "18116981894142416",
+    "youtube_video_id": "Wfz5qo4FzWs",
+    "experiment": "Race / stakes + time-collapse hook in lowpoly (first race hook outside parchment, after Great Wall myth-bust); held 22.8 s, 60 words, number (3,000 miles) on first screen, routes drawn sequentially while spoken",
+    "narration": "Crossing America took months. Then, under a week. In eighteen sixty-three, one railroad lays track east from Sacramento. A rival races west from Omaha, paid in bonds for every mile. Nearly eighteen hundred miles of track, joined in Utah in eighteen sixty-nine. So how long did the crossing take now? Months by wagon or ship. Under a week by rail.",
+    "sources": [
+      "https://www.history.com/articles/transcontinental-railroad",
+      "https://www.pbs.org/wgbh/americanexperience/features/tcrr-timeline/"
+    ],
+    "metrics": {
+      "media_views": 139,
+      "media_reach": 115,
+      "media_reel_avg_watch_time": 7429,
+      "media_reel_skip_rate": 0.461,
+      "media_reel_total_interactions": 1,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 273,
+      "video_like_count": 2
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "time": "12:38",
+    "style": "parchment",
+    "topic": "Nellie Bly's 1889-90 trip around the world in 72 days, beating Verne's fictional 80; rival Elizabeth Bisland raced the other way",
+    "kind": "historic route",
+    "hook_type": "race / stakes",
+    "title": "She beat Jules Verne's 80 / 72 DAYS",
+    "yt_title": "She beat Jules Verne's 80 days in 72 #Shorts",
+    "video": "v/2026-11-26-1238-nellie-bly-72-days.mp4",
+    "instagram_media_id": "17930056221437492",
+    "youtube_video_id": "qsEx16BOjvQ",
+    "experiment": "Second race/stakes hook in parchment (does Tea Race's IG win repeat in the same style?), number + familiar name (Verne) in title, 23.2 s, 58 words",
+    "narration": "Verne's hero took eighty days. She took seventy-two. Eighteen eighty-nine. Nellie Bly leaves New Jersey. In France, she stops to meet Jules Verne himself. In Hong Kong, news: a rival is racing the other way. Pacific storms cost two days. A special train races her east. January, eighteen ninety. Did she beat Verne? Seventy-two days. A world record.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Around_the_World_in_Seventy-Two_Days",
+      "https://www.smithsonianmag.com/smart-news/nellie-blys-record-breaking-trip-around-world-was-to-her-surprise-race-180957910/"
+    ],
+    "metrics": {
+      "media_views": 118,
+      "media_reach": 103,
+      "media_reel_avg_watch_time": 7189,
+      "media_reel_skip_rate": 0.505,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 161,
+      "video_like_count": 1
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "time": "18:44",
+    "style": "cosmic",
+    "topic": "Proxima Centauri, the nearest star (4.25 ly), is only ~1.5x Jupiter's diameter; ~3 in 4 stars are red dwarfs, so the Sun is bigger than most stars",
+    "kind": "size comparison",
+    "hook_type": "contradiction of two familiar things",
+    "title": "NEAREST STAR: / 1.5 JUPITERS",
+    "yt_title": "Our nearest star is only 1.5 Jupiters wide #Shorts",
+    "video": "v/2026-11-26-1844-proxima-1-5-jupiters.mp4",
+    "instagram_media_id": "18128471452914665",
+    "youtube_video_id": "ctQpEZOv6m0",
+    "experiment": "Spoken hook is a question ('How big is the star next door?') with the claim + number only on the title card; payoff spoken at ~5.5 s. 21.1 s, 62 words",
+    "narration": "How big is the star next door? This is Earth. Giant Jupiter is eleven Earths wide. Proxima Centauri, our nearest star, is just one and a half Jupiters across. Now put it beside our Sun, and it almost vanishes. Red dwarfs like it are about three in four stars. So is our Sun really average? Most stars are smaller than our Sun.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Proxima_Centauri",
+      "https://astrobiology.nasa.gov/news/red-dwarf-stars-and-the-planets-around-them/"
+    ],
+    "metrics": {
+      "media_views": 140,
+      "media_reach": 105,
+      "media_reel_avg_watch_time": 9425,
+      "media_reel_skip_rate": 0.442,
+      "media_reel_total_interactions": 3,
+      "media_shares": 0,
+      "media_saved": 0
+    },
+    "yt_metrics": {
+      "video_view_count": 1006,
+      "video_like_count": 10
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "time": "12:45",
+    "style": "lowpoly",
+    "topic": "Windsor, Ontario lies directly south of Detroit across the Ambassador Bridge (1929); Canada's southernmost point, Middle Island in Lake Erie (41.7°N), is further south than California's northern border (42°N)",
+    "kind": "engineering line / geography flip",
+    "hook_type": "contradiction of two familiar things",
+    "title": "Detroit to Canada? / Drive SOUTH.",
+    "video": "v/2026-11-27-1300-detroit-canada-south.mp4",
+    "instagram_media_id": "18098577293689772",
+    "youtube_video_id": null,
+    "youtube_error": "Metricool: 'You have reached your Metricool account limit.' (post 444334041)",
+    "experiment": "Spoken question hook ('Which way do you drive from Detroit to Canada?') with the claim on the title card, as in Proxima, tested outside cosmic (lowpoly geography flip); 21.7 s, 55 words",
+    "narration": "Which way do you drive from Detroit to Canada? South. The Ambassador Bridge, opened in nineteen twenty-nine, lands you in Windsor. Keep heading south, to Middle Island in Lake Erie, Canada's southernmost point. Forty-one point seven degrees north, further south than California's northern border. Still think Canada is always up? Head south to reach Canada.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Middle_Island_(Lake_Erie)",
+      "https://en.wikipedia.org/wiki/Ambassador_Bridge",
+      "https://www.thecanadianencyclopedia.ca/en/article/windsor-ont",
+      "https://www.britannica.com/place/Windsor-Ontario",
+      "https://en.wikipedia.org/wiki/Windsor,_Ontario"
+    ]
   }
- },
- {
-  "date": "2026-11-15",
-  "topic": "Adelita the loggerhead turtle, satellite-tracked from Baja California to Japan, 1996-97",
-  "kind": "science journey",
-  "title": "From a tank to / Japan",
-  "video": "v/2026-11-15-adelita-turtle.mp4",
-  "instagram_media_id": "18457774447123716",
-  "narration": "A turtle raised in a tank swam across the Pacific. August, nineteen ninety-six. Scientists free her in Mexico, with a satellite tag. No animal had ever been tracked across an ocean. She swims west, day and night. Three hundred and sixty-eight days later, she reaches Japan. More than eleven thousand five hundred kilometres. How did she find the way? Raised in a tank, she still found Japan.",
-  "sources": [
-   "https://www.wallacejnichols.org/101/80/bulletin-of-marine-science-transpacific-sea-turtle-migration.html",
-   "https://www.pbs.org/wnet/nature/voyage-of-the-lonely-turtle-interview-wallace-j-nichols/2508",
-   "https://en.wikipedia.org/wiki/Adelita_(turtle)"
-  ],
-  "style": "parchment",
-  "metrics": {
-   "media_views": 223,
-   "media_reach": 198,
-   "media_reel_avg_watch_time": 6821,
-   "media_reel_skip_rate": 0.508,
-   "media_reel_total_interactions": 2,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "hook_type": "single-subject story"
- },
- {
-  "date": "2026-11-15",
-  "topic": "William Bligh's open-boat voyage after the Bounty mutiny, Tofua to Timor, 1789",
-  "kind": "famous voyage",
-  "title": "Cast adrift, no charts: / 6,700 km",
-  "video": "v/2026-11-15-bligh-open-boat.mp4",
-  "instagram_media_id": "17917830255472121",
-  "narration": "No charts. One open boat. Sixty-seven hundred kilometres. April, seventeen eighty-nine. Mutineers force nineteen men into a seven-metre boat. Islanders on Tofua have killed one. Now there are no charts, no guns, meagre rations. May twenty-ninth. They land off Australia, hunting for food. Will they make it? June fourteenth. Forty-one days at sea, they reach Timor. Sixty-seven hundred kilometres. Just one man lost.",
-  "sources": [
-   "https://www.rmg.co.uk/collections/objects/rmgc-object-149152",
-   "https://rmg.co.uk/collections/objects/rmgc-object-68947",
-   "https://sea.museum/2019/06/14/a-mutiny-and-a-mystery-what-happened-to-fletcher-christian-and-the-bounty-mutineers",
-   "https://www.slq.qld.gov.au/blog/queensland-places-restoration"
-  ],
-  "style": "parchment",
-  "metrics": {
-   "media_views": 122,
-   "media_reach": 104,
-   "media_reel_avg_watch_time": 6903,
-   "media_reel_skip_rate": 0.548,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "hook_type": "survival / stakes"
- },
- {
-  "date": "2026-11-16",
-  "time": "12:38",
-  "style": "cosmic",
-  "topic": "Star size comparison: Sun, Sirius A, Rigel, Betelgeuse (Betelgeuse ~700x wider than the Sun)",
-  "kind": "star size comparison",
-  "title": "OUR SUN IS TINY.",
-  "video": "v/2026-11-16-1238-betelgeuse.mp4",
-  "instagram_media_id": "18103077116381939",
-  "youtube_video_id": "GNtXbVjir58",
-  "narration": "This is our Sun. It's about to look tiny. Sirius, the brightest star in our night sky, is not even twice as wide. Rigel, in Orion, is about seventy-four Suns across. Then there's Betelgeuse, the red shoulder of Orion. It's about seven hundred times wider than our Sun. So what if it sat where our Sun is? It would swallow Earth and Mars.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Betelgeuse",
-   "https://en.wikipedia.org/wiki/Rigel",
-   "https://en.wikipedia.org/wiki/Sirius"
-  ],
-  "metrics": {
-   "media_views": 230,
-   "media_reach": 169,
-   "media_reel_avg_watch_time": 9598,
-   "media_reel_skip_rate": 0.414,
-   "media_reel_total_interactions": 4,
-   "media_shares": 1,
-   "media_saved": 0
-  },
-  "hook_type": "you-think-big-but comparison",
-  "yt_metrics": {
-   "video_view_count": 5,
-   "video_like_count": 0
-  }
- },
- {
-  "date": "2026-11-16",
-  "time": "18:02",
-  "style": "data",
-  "topic": "Earth has more trees (3.04 trillion) than the Milky Way has stars (100-400 billion)",
-  "kind": "surprising statistic",
-  "title": "More trees than stars",
-  "video": "v/2026-11-16-1802-trees-vs-stars.mp4",
-  "instagram_media_id": "18111814036914972",
-  "youtube_video_id": "4nfskeLS2zU",
-  "narration": "Earth has more trees than our galaxy has stars. About three trillion, counted from satellites and ground surveys. Our galaxy has one hundred to four hundred billion stars. That's roughly four hundred trees for every person. Even against the highest star count, trees win by seven to one. So they're safe, right? We lose fifteen billion every single year.",
-  "sources": [
-   "https://news.yale.edu/2015/09/02/seeing-forest-and-trees-all-3-trillion-them",
-   "https://science.nasa.gov/universe/stories/quick-reads/how-big-is-our-galaxy-the-milky-way/",
-   "https://www.prb.org/articles/how-many-people"
-  ],
-  "notes": "Retention-focused cut: contradiction hook spoken from frame 0, on-screen number counting up in first second, ~22 s, open-loop question before twist ending, speed 1.08",
-  "metrics": {
-   "media_views": 196,
-   "media_reach": 142,
-   "media_reel_avg_watch_time": 12465,
-   "media_reel_skip_rate": 0.286,
-   "media_reel_total_interactions": 1,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "hook_type": "contradiction of two familiar things",
-  "yt_metrics": {
-   "video_view_count": 2,
-   "video_like_count": 0
-  }
- },
- {
-  "date": "2026-11-16",
-  "time": "18:39",
-  "style": "exploded",
-  "topic": "Inside an ionisation smoke alarm: the americium-241 chamber",
-  "kind": "inside everyday object",
-  "title": "ON YOUR CEILING: RADIOACTIVE METAL",
-  "video": "v/2026-11-16-1839-smoke-alarm.mp4",
-  "instagram_media_id": "17968224594219009",
-  "youtube_video_id": "H2ZnE7uPZpQ",
-  "narration": "There may be radioactive metal on your ceiling. Pop the cover off a smoke alarm. Inside sits a tiny metal chamber. Below it, a circuit board and a loud horn. A nine-volt battery powers it all. A base plate holds it up there. In many alarms, that chamber holds americium two forty-one, made in nuclear reactors. It ionises the air so a tiny current flows. Smoke breaks it, and the alarm screams. So is it dangerous? Its alpha particles can't pass paper.",
-  "sources": [
-   "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/smoke-detectors.html",
-   "https://19january2025snapshot.epa.gov/radiation/radionuclide-basics-americium-241",
-   "https://19january2025snapshot.epa.gov/radtown/americium-ionization-smoke-detectors",
-   "https://sciencedemonstrations.fas.harvard.edu/presentations/α-β-γ-penetration-and-shielding"
-  ],
-  "metrics": {
-   "media_views": 116,
-   "media_reach": 105,
-   "media_reel_avg_watch_time": 4873,
-   "media_reel_skip_rate": 0.745,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "hook_type": "warning / danger at home",
-  "yt_metrics": {
-   "video_view_count": 7,
-   "video_like_count": 0
-  }
- },
- {
-  "date": "2026-11-17",
-  "time": "12:47",
-  "style": "lowpoly",
-  "topic": "Hannibal's march with 37 war elephants from Spain over the Alps, 218 BC",
-  "kind": "military march",
-  "title": "Elephants Over the Alps",
-  "video": "v/2026-11-17-1247-hannibal-alps.mp4",
-  "instagram_media_id": "18202562113382452",
-  "youtube_video_id": "DV3XYRFqlNw",
-  "narration": "This general marched war elephants over the Alps. Two hundred and eighteen BC. Hannibal leads his army north from Spain, with thirty-seven elephants. Over the Pyrenees, then across the river Rhône. Then the Alps. Snow on the passes, and tribes rolling boulders from above. Fifteen days to cross the mountains. Who would try that with elephants? Five months. One legendary march.",
-  "sources": [
-   "https://www.britannica.com/biography/Hannibal-Carthaginian-general-247-183-BCE",
-   "https://kids.britannica.com/students/article/Hannibal/274766",
-   "https://www.livius.org/articles/person/hannibal-3-barca/hannibal-in-the-alps",
-   "https://www.history.com/articles/hannibal-crosses-alps"
-  ],
-  "metrics": {
-   "media_views": 162,
-   "media_reach": 133,
-   "media_reel_avg_watch_time": 7981,
-   "media_reel_skip_rate": 0.53,
-   "media_reel_total_interactions": 2,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "hook_type": "single-subject story",
-  "yt_metrics": {
-   "video_view_count": 38,
-   "video_like_count": 1
-  }
- },
- {
-  "date": "2026-11-17",
-  "time": "18:41",
-  "style": "data",
-  "topic": "Cost of sequencing one human genome: $95.3M (2001) to ~$525 (2022), ~180,000x cheaper, out-paced Moore's Law",
-  "kind": "surprising statistic",
-  "title": "Your DNA once cost $95 million to read",
-  "video": "v/2026-11-17-1839-genome-cost.mp4",
-  "instagram_media_id": "18158233348535858",
-  "youtube_video_id": "pthRk0XGBZU",
-  "narration": "Reading your DNA cost ninety-five million dollars. That was in two thousand and one. Then, in two thousand and eight, new sequencing machines arrived. The price fell ninety-nine point six percent in seven years. And it kept on falling. By twenty twenty-two, about five hundred and twenty-five dollars. Put the two price tags side by side. A hundred and eighty thousand times cheaper. Did computer chips keep up? It outran Moore's law.",
-  "sources": [
-   "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data",
-   "https://ourworldindata.org/grapher/cost-of-sequencing-a-full-human-genome"
-  ],
-  "metrics": {
-   "media_views": 150,
-   "media_reach": 124,
-   "media_reel_avg_watch_time": 9620,
-   "media_reel_skip_rate": 0.575,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "hook_type": "huge number / price collapse",
-  "yt_metrics": {
-   "video_view_count": 659,
-   "video_like_count": 2
-  }
- },
- {
-  "date": "2026-11-18",
-  "time": "12:47",
-  "style": "lowpoly",
-  "topic": "Pony Express lasted only ~18 months (Apr 1860–Oct 1861), St. Joseph to Sacramento ~1,800 miles in ~10 days, killed by the transcontinental telegraph meeting at Salt Lake City",
-  "kind": "historic route",
-  "title": "Pony Express: Only 18 Months",
-  "video": "v/2026-11-18-1247-pony-express.mp4",
-  "instagram_media_id": "18119698205274760",
-  "youtube_video_id": "bvn6R3E4w4o",
-  "narration": "The Pony Express lasted just eighteen months. April eighteen sixty. Riders gallop west from Saint Joseph, Missouri. Relay riders carry mail about eighteen hundred miles in ten days. But telegraph crews are stringing wire west from Nebraska. Another crew heads east from Nevada. They meet in Salt Lake City. October eighteen sixty-one, the wire goes live. Who needs a horse now? Two days later, the riders stopped.",
-  "sources": [
-   "https://www.nps.gov/poex/learn/historyculture/index.htm",
-   "https://facts.usps.com/pony-express-history/",
-   "https://en.wikipedia.org/wiki/First_transcontinental_telegraph",
-   "https://en.wikipedia.org/wiki/Overland_Telegraph_Company"
-  ],
-  "hook_type": "surprising short duration",
-  "yt_metrics": {
-   "video_view_count": 5,
-   "video_like_count": 0
-  },
-  "metrics": {
-   "media_views": 147,
-   "media_reach": 121,
-   "media_reel_avg_watch_time": 10233,
-   "media_reel_skip_rate": 0.378,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  }
- },
- {
-  "date": "2026-11-18",
-  "time": "18:44",
-  "style": "exploded",
-  "topic": "Inside a contactless bank card: laminated layers, chip and copper coil antenna; no battery, powered by the reader's field",
-  "kind": "inside everyday object",
-  "title": "YOUR CARD HAS AN ANTENNA",
-  "video": "v/2026-11-18-1844-card-antenna.mp4",
-  "instagram_media_id": "18394445989163270",
-  "youtube_video_id": "cImuVPpgbIA",
-  "narration": "Your bank card has a hidden antenna. Peel it apart. A clear plastic skin on top. Next, the printed front. Then the middle layer, hiding the chip and a coil of copper wire. Below that, the printed back. One more clear skin. All of it under one millimetre thick. That coil is an antenna. Within about ten centimetres of a reader, it catches its magnetic field. But there's no battery inside. So what powers the chip? No battery. The field powers it.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/ISO/IEC_7810",
-   "https://en.wikipedia.org/wiki/Contactless_smart_card",
-   "https://www.securetechalliance.org/smart-cards-faq/",
-   "https://arxiv.org/pdf/1507.06427"
-  ],
-  "hook_type": "hidden thing in everyday object",
-  "yt_metrics": {
-   "video_view_count": 74,
-   "video_like_count": 0
-  },
-  "metrics": {
-   "media_views": 134,
-   "media_reach": 119,
-   "media_reel_avg_watch_time": 6003,
-   "media_reel_skip_rate": 0.625,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  }
- },
- {
-  "date": "2026-11-19",
-  "time": "12:49",
-  "style": "cosmic",
-  "topic": "Two moons (Titan 5,150 km and Ganymede 5,268 km) are wider than the planet Mercury (4,879 km), though Mercury has about twice Ganymede's mass",
-  "kind": "size comparison",
-  "hook_type": "contradiction of two familiar things",
-  "title": "2 MOONS BIGGER THAN A PLANET",
-  "video": "v/2026-11-19-1249-moons-vs-mercury.mp4",
-  "instagram_media_id": "18649414438041548",
-  "youtube_video_id": "FUFOqrqjOL8",
-  "experiment": "Specific either/or comment prompt in caption: 'which did you think was bigger, Mercury or Ganymede?'",
-  "narration": "Two moons are bigger than a whole planet. Meet Mercury, the smallest planet. Our Moon is only a bit smaller. Now Saturn's moon Titan. It's wider than Mercury. And Jupiter's Ganymede, the biggest moon of all, is five thousand two hundred and sixty-eight kilometres across. But Mercury is about twice as heavy. So why isn't Ganymede called a planet? It circles Jupiter, not the Sun.",
-  "sources": [
-   "https://sci.esa.int/web/juice/-/59905-juice-s-primary-target-ganymede",
-   "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
-   "https://www.britannica.com/place/Titan-astronomy",
-   "https://science.nasa.gov/mercury/facts/",
-   "https://science.nasa.gov/moon/facts/"
-  ],
-  "metrics": {
-   "media_views": 175,
-   "media_reach": 133,
-   "media_reel_avg_watch_time": 10959,
-   "media_reel_skip_rate": 0.408,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 1784,
-   "video_like_count": 10
-  }
- },
- {
-  "date": "2026-11-21",
-  "time": "12:42",
-  "style": "lowpoly",
-  "topic": "Panama Canal: sailing Atlantic to Pacific you end ~39 km further east; 82 km, opened 1914, saves ~8,000 nmi vs Cape Horn",
-  "kind": "engineering line",
-  "hook_type": "contradiction of two familiar things",
-  "title": "To the Pacific? Sail East.",
-  "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-21-1242-panama-canal-east.mp4",
-  "instagram_media_id": null,
-  "instagram_error": "Account restricted (Das Instagram-Konto wurde eingeschränkt)",
-  "youtube_video_id": "Mk7f-JrD9-w",
-  "youtube_title": "Sail to the Pacific… and end up 39 km EAST #Shorts",
-  "experiment": "Shortest video yet: 22.4 s, 57 words (length band test), contradiction hook on a map",
-  "narration": "Reach the Pacific here, and you're thirty-nine kilometres east. This is the Panama Canal. Eighty-two kilometres, opened in nineteen fourteen. Panama lies on its side, so ships leave Colón heading south-east, not west. It spares them about eight thousand nautical miles round Cape Horn. So which way are they really sailing? West to east. Atlantic to Pacific.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Panama_Canal",
-   "https://www.britannica.com/topic/Panama-Canal",
-   "https://www.britannica.com/question/Why-is-the-Panama-Canal-important",
-   "https://en.wikipedia.org/wiki/Atlantic_Bridge,_Panama",
-   "https://en.wikipedia.org/wiki/Bridge_of_the_Americas"
-  ],
-  "yt_metrics": {
-   "video_view_count": 433,
-   "video_like_count": 0
-  }
- },
- {
-  "date": "2026-11-21",
-  "time": "18:44",
-  "style": "exploded",
-  "topic": "Long-life 'paper' juice carton is 6 layers incl. aluminium foil; ~74% paper, 22% polyethylene, 4% aluminium by weight",
-  "kind": "inside everyday object",
-  "hook_type": "contradiction of two familiar things",
-  "title": "Paper carton? 6 layers, 1 metal",
-  "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-21-1844-carton-foil.mp4",
-  "instagram_media_id": "18137817698505824",
-  "youtube_video_id": "ZDzCFqFc-2A",
-  "youtube_title": "Your paper juice carton is hiding metal #Shorts",
-  "experiment": "Request-style comment prompt ('What everyday object should we take apart next?') instead of either/or; exploded kept to 23 s / 62 words with a contradiction hook",
-  "narration": "This paper juice carton is six layers. One is metal. Peel them apart. Plastic, then paperboard for strength. More plastic glues on... this. Then two more plastic layers seal in the juice. That shiny sheet is foil. It blocks light and air, so long-life juice keeps without a fridge. So what is it really made of? Seventy-four percent paper. Four percent metal.",
-  "sources": [
-   "https://loraincountyohio.gov/DocumentCenter/View/223",
-   "https://waste360.com/industry-insights/profiles-in-garbage-aseptic-boxes-cartons",
-   "https://www.sig.biz/en/news-insights/blog/deconstructing-an-aseptic-carton"
-  ],
-  "metrics": {
-   "media_views": 157,
-   "media_reach": 138,
-   "media_reel_avg_watch_time": 8080,
-   "media_reel_skip_rate": 0.515,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 872,
-   "video_like_count": 1
-  }
- },
- {
-  "date": "2026-11-22",
-  "time": "12:40",
-  "style": "data",
-  "topic": "Cleopatra (d. 30 BC) lived closer in time to the Apollo 11 Moon landing (1969) than to the building of the Great Pyramid (c. 2560 BC): 2,530 vs 1,998 years",
-  "kind": "surprising statistic",
-  "hook_type": "contradiction of two familiar things",
-  "title": "Cleopatra lived closer to the Moon landing than the pyramids",
-  "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-22-1240-cleopatra-moon.mp4",
-  "instagram_media_id": "17914170885583493",
-  "youtube_video_id": "JrkkTNtY-pE",
-  "experiment": "Payoff stated in the first spoken line (the flip at 0 s, then proved with numbers); 22.6 s, 64 words; data style used for a history timeline",
-  "narration": "Cleopatra lived nearer the Moon landing than the pyramids. The Great Pyramid was already two and a half thousand years old. Now count the years on either side of her. From her to Apollo eleven: under two thousand. Pyramid to Cleopatra: two thousand five hundred and thirty. Over five hundred years more. So what counts as ancient? To Cleopatra, the pyramids were ancient too.",
-  "sources": [
-   "https://www.britannica.com/place/Great-Pyramid-of-Giza",
-   "https://www.worldhistory.org/image/15685/the-great-pyramid-pyramid-of-khufu-c-2560-bce/",
-   "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
-   "https://www.nasa.gov/history/55-years-ago-apollo-11s-one-small-step-one-giant-leap"
-  ],
-  "metrics": {
-   "media_views": 141,
-   "media_reach": 125,
-   "media_reel_avg_watch_time": 5905,
-   "media_reel_skip_rate": 0.536,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 114,
-   "video_like_count": 1
-  }
- },
- {
-  "date": "2026-11-23",
-  "time": "12:38",
-  "style": "cosmic",
-  "topic": "The Sun is ~400x wider than the Moon (3,475 km vs 1,391,400 km) but also ~400x farther away, so they look the same size: total solar eclipses",
-  "kind": "size comparison",
-  "hook_type": "contradiction of two familiar things",
-  "title": "The Sun is 400x wider than the Moon",
-  "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-23-1238-sun-moon-400x.mp4",
-  "instagram_media_id": "18121273954794070",
-  "youtube_video_id": "CChryIDfLNI",
-  "experiment": "Plain open comment question in caption ('Have you ever seen a total solar eclipse?'); also first cosmic with two everyday sky objects. 21.1 s, 63 words, payoff (why) held to ~12 s.",
-  "narration": "The Sun is four hundred times wider than the Moon. Start with the Moon. Earth is less than four Moons across. Now the Sun. One hundred and nine Earths wide. So why do they look the same size in our sky? Because the Sun is also about four hundred times farther away. And that coincidence gives us... The perfect fit: total solar eclipses.",
-  "sources": [
-   "https://spaceplace.nasa.gov/total-solar-eclipse/en/",
-   "https://science.nasa.gov/eclipses/geometry",
-   "https://spaceplace.nasa.gov/sun-compare/",
-   "https://science.nasa.gov/sun/facts/"
-  ],
-  "metrics": {
-   "media_views": 180,
-   "media_reach": 136,
-   "media_reel_avg_watch_time": 10109,
-   "media_reel_skip_rate": 0.422,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 1289,
-   "video_like_count": 16
-  }
- },
- {
-  "date": "2026-11-23",
-  "time": "18:39",
-  "style": "data",
-  "topic": "About 38 trillion bacteria vs 30 trillion human cells in a 70 kg adult (84% of human cells are red blood cells), yet the bacteria weigh only ~0.2 kg",
-  "kind": "surprising statistic",
-  "hook_type": "contradiction of two familiar things",
-  "title": "38 trillion bacteria outnumber your cells",
-  "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-23-1839-bacteria-38-trillion.mp4",
-  "instagram_media_id": "18449159563132703",
-  "youtube_video_id": "5G57LsZCF34",
-  "experiment": "Data style on an everyday body topic (not history), myth-check comment question ('Did you think the old 10 to 1 figure was true?'). 22.1 s, 65 words, twist (red blood cells) at ~8 s.",
-  "narration": "Thirty-eight trillion bacteria live in your body. That's more than all of your own cells combined. Your body is built from about thirty trillion human cells. And most of those are tiny red blood cells. But put every bacterium on a scale, and they weigh about two hundred grams. You outweigh them three hundred and fifty times. So who's really winning? Outnumbered, but not outweighed.",
-  "sources": [
-   "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533",
-   "https://wis-wander.weizmann.ac.il/node/7871"
-  ],
-  "metrics": {
-   "media_views": 115,
-   "media_reach": 99,
-   "media_reel_avg_watch_time": 6431,
-   "media_reel_skip_rate": 0.598,
-   "media_reel_total_interactions": 1,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 284,
-   "video_like_count": 1
-  }
- },
- {
-  "date": "2026-11-24",
-  "time": "12:34",
-  "style": "exploded",
-  "topic": "'Lead' pencils contain no lead: the core is graphite + clay between two glued cedar halves; named 'black lead' after the 1564 Borrowdale graphite find",
-  "kind": "inside everyday object",
-  "hook_type": "contradiction of two familiar things",
-  "title": "Your lead pencil has zero lead",
-  "video": "https://flameinair902.github.io/parchment-videos/v/2026-11-24-1234-pencil-zero-lead.mp4",
-  "instagram_media_id": "18499271902111920",
-  "youtube_video_id": "j3wcoIMm-Gg",
-  "experiment": "Myth-bust of a familiar name in exploded style (second myth-bust after bacteria; one variable vs carton): 21.8 s, 64 words, twist at ~9 s",
-  "narration": "Your lead pencil has zero lead in it. Split one open: two halves of cedar. Between them, the core we call lead. Each half is grooved, then glued around it. But it's graphite, a form of carbon, baked with clay. So why the name? In fifteen sixty-four, England found pure graphite at Borrowdale. What did they think it was? They called it black lead.",
-  "sources": [
-   "https://www.mcgill.ca/oss/article/did-you-know/pencils-never-contained-lead",
-   "https://kids.britannica.com/students/article/pencil/276344",
-   "https://www.encyclopedia.com/literature-and-arts/art-and-architecture/art-general/pencil"
-  ],
-  "metrics": {
-   "media_views": 157,
-   "media_reach": 118,
-   "media_reel_avg_watch_time": 8350,
-   "media_reel_skip_rate": 0.508,
-   "media_reel_total_interactions": 1,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 989,
-   "video_like_count": 7
-  }
- },
- {
-  "date": "2026-11-24",
-  "time": "18:43",
-  "style": "lowpoly",
-  "topic": "Great Wall of China: 21,196 km long (2012 survey) yet not visible to the naked eye from orbit; Ming wall 8,850 km, Yang Liwei 'I didn't see the Great Wall'",
-  "kind": "engineering line",
-  "hook_type": "contradiction of two familiar things",
-  "title": "21,196 km / Unseen from orbit",
-  "yt_title": "21,196 km of wall you can't see from space #Shorts",
-  "video": "v/2026-11-24-1843-great-wall-orbit.mp4",
-  "instagram_media_id": "18027353546940747",
-  "youtube_video_id": "pIQ3PgWt9aY",
-  "experiment": "Myth-bust angle on a map (lowpoly), third myth-bust test after bacteria (data) and pencil (exploded); 22.3 s, 60 words, twist (astronaut quote) at ~7.4 s",
-  "narration": "The Great Wall stretches over twenty-one thousand kilometres. The Ming wall alone runs eight thousand, eight hundred and fifty kilometres. Yet China's first astronaut looked down from orbit and said: I didn't see the Great Wall. Twenty-one thousand, one hundred and ninety-six kilometres. From four hundred kilometres up, how do you miss it? Long, yes. But under ten metres wide.",
-  "sources": [
-   "https://www.livescience.com/20840-great-wall-china-long-thought.html",
-   "https://www.britannica.com/topic/Great-Wall-of-China",
-   "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf",
-   "https://www.scientificamerican.com/article/no-you-cant-see-the-great-wall-of-china-from-space/",
-   "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth",
-   "https://britannica.com/question/Can-you-see-the-Great-Wall-of-China-from-space"
-  ],
-  "metrics": {
-   "media_views": 161,
-   "media_reach": 138,
-   "media_reel_avg_watch_time": 6905,
-   "media_reel_skip_rate": 0.58,
-   "media_reel_total_interactions": 1,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 327,
-   "video_like_count": 3
-  }
- },
- {
-  "date": "2026-11-25",
-  "time": "12:38",
-  "style": "cosmic",
-  "topic": "Pluto (2,377 km) is smaller than our Moon (3,475 km); Earth is 5.4x wider; 7 moons (Ganymede, Titan, Callisto, Io, Moon, Europa, Triton) are bigger than Pluto",
-  "kind": "size comparison",
-  "hook_type": "contradiction of two familiar things",
-  "title": "Pluto's smaller than our Moon",
-  "video": "v/2026-11-25-1238-pluto-smaller-moon.mp4",
-  "instagram_media_id": "17894628222456130",
-  "youtube_video_id": "_R83Xe1HWqE",
-  "experiment": "Myth-bust framing ('our old ninth planet') in cosmic, the best style (4th myth-bust test after bacteria, pencil, Great Wall); 21.4 s, 60 words, second twist (7 moons bigger) at ~9.6 s",
-  "narration": "Pluto, our old ninth planet, is smaller than the Moon. Pluto is just two thousand three hundred and seventy-seven kilometres wide. Beside Earth, it's a tiny speck. Seven moons in our solar system are bigger than Pluto, from Jupiter's Ganymede to our own. So, do you still picture it as the ninth planet? Once a planet. Smaller than a moon.",
-  "sources": [
-   "https://science.nasa.gov/dwarf-planets/pluto/facts",
-   "https://www.nasa.gov/solar-system/how-big-is-pluto-new-horizons-settles-decades-long-debate/",
-   "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
-   "https://nssdc.gsfc.nasa.gov/planetary/factsheet/galileanfact_table.html",
-   "https://pressbooks.online.ucf.edu/astronomybc/chapter/12-1-ring-and-moon-systems-introduced/"
-  ],
-  "metrics": {
-   "media_views": 151,
-   "media_reach": 117,
-   "media_reel_avg_watch_time": 8813,
-   "media_reel_skip_rate": 0.432,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 1179,
-   "video_like_count": 17
-  }
- },
- {
-  "date": "2026-11-25",
-  "time": "18:50",
-  "style": "lowpoly",
-  "topic": "First transcontinental railroad, Sacramento and Omaha to Promontory, 1863-1869",
-  "kind": "engineering line",
-  "hook_type": "race / stakes",
-  "title": "Months to Under a Week",
-  "video": "v/2026-11-25-1850-transcontinental-rail.mp4",
-  "instagram_media_id": "18116981894142416",
-  "youtube_video_id": "Wfz5qo4FzWs",
-  "experiment": "Race / stakes + time-collapse hook in lowpoly (first race hook outside parchment, after Great Wall myth-bust); held 22.8 s, 60 words, number (3,000 miles) on first screen, routes drawn sequentially while spoken",
-  "narration": "Crossing America took months. Then, under a week. In eighteen sixty-three, one railroad lays track east from Sacramento. A rival races west from Omaha, paid in bonds for every mile. Nearly eighteen hundred miles of track, joined in Utah in eighteen sixty-nine. So how long did the crossing take now? Months by wagon or ship. Under a week by rail.",
-  "sources": [
-   "https://www.history.com/articles/transcontinental-railroad",
-   "https://www.pbs.org/wgbh/americanexperience/features/tcrr-timeline/"
-  ],
-  "metrics": {
-   "media_views": 139,
-   "media_reach": 115,
-   "media_reel_avg_watch_time": 7429,
-   "media_reel_skip_rate": 0.461,
-   "media_reel_total_interactions": 1,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 258,
-   "video_like_count": 2
-  }
- },
- {
-  "date": "2026-11-26",
-  "time": "12:38",
-  "style": "parchment",
-  "topic": "Nellie Bly's 1889-90 trip around the world in 72 days, beating Verne's fictional 80; rival Elizabeth Bisland raced the other way",
-  "kind": "historic route",
-  "hook_type": "race / stakes",
-  "title": "She beat Jules Verne's 80 / 72 DAYS",
-  "yt_title": "She beat Jules Verne's 80 days in 72 #Shorts",
-  "video": "v/2026-11-26-1238-nellie-bly-72-days.mp4",
-  "instagram_media_id": "17930056221437492",
-  "youtube_video_id": "qsEx16BOjvQ",
-  "experiment": "Second race/stakes hook in parchment (does Tea Race's IG win repeat in the same style?), number + familiar name (Verne) in title, 23.2 s, 58 words",
-  "narration": "Verne's hero took eighty days. She took seventy-two. Eighteen eighty-nine. Nellie Bly leaves New Jersey. In France, she stops to meet Jules Verne himself. In Hong Kong, news: a rival is racing the other way. Pacific storms cost two days. A special train races her east. January, eighteen ninety. Did she beat Verne? Seventy-two days. A world record.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Around_the_World_in_Seventy-Two_Days",
-   "https://www.smithsonianmag.com/smart-news/nellie-blys-record-breaking-trip-around-world-was-to-her-surprise-race-180957910/"
-  ],
-  "metrics": {
-   "media_views": 118,
-   "media_reach": 103,
-   "media_reel_avg_watch_time": 7189,
-   "media_reel_skip_rate": 0.505,
-   "media_reel_total_interactions": 0,
-   "media_shares": 0,
-   "media_saved": 0
-  },
-  "yt_metrics": {
-   "video_view_count": 124,
-   "video_like_count": 1
-  }
- },
- {
-  "date": "2026-11-26",
-  "time": "18:44",
-  "style": "cosmic",
-  "topic": "Proxima Centauri, the nearest star (4.25 ly), is only ~1.5x Jupiter's diameter; ~3 in 4 stars are red dwarfs, so the Sun is bigger than most stars",
-  "kind": "size comparison",
-  "hook_type": "contradiction of two familiar things",
-  "title": "NEAREST STAR: / 1.5 JUPITERS",
-  "yt_title": "Our nearest star is only 1.5 Jupiters wide #Shorts",
-  "video": "v/2026-11-26-1844-proxima-1-5-jupiters.mp4",
-  "instagram_media_id": "18128471452914665",
-  "youtube_video_id": "ctQpEZOv6m0",
-  "experiment": "Spoken hook is a question ('How big is the star next door?') with the claim + number only on the title card; payoff spoken at ~5.5 s. 21.1 s, 62 words",
-  "narration": "How big is the star next door? This is Earth. Giant Jupiter is eleven Earths wide. Proxima Centauri, our nearest star, is just one and a half Jupiters across. Now put it beside our Sun, and it almost vanishes. Red dwarfs like it are about three in four stars. So is our Sun really average? Most stars are smaller than our Sun.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Proxima_Centauri",
-   "https://astrobiology.nasa.gov/news/red-dwarf-stars-and-the-planets-around-them/"
-  ]
- }
 ]
