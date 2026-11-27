@@ -24,7 +24,6 @@
     "style": "parchment",
     "metrics": {
       "media_views": 140,
-      "media_reach": 109,
       "media_reel_avg_watch_time": 8598,
       "media_reel_skip_rate": 0.615,
       "media_reel_total_interactions": 1,
@@ -68,7 +67,6 @@
     "style": "parchment",
     "metrics": {
       "media_views": 166,
-      "media_reach": 149,
       "media_reel_avg_watch_time": 7231,
       "media_reel_skip_rate": 0.497,
       "media_reel_total_interactions": 1,
@@ -93,7 +91,6 @@
     "style": "parchment",
     "metrics": {
       "media_views": 1309,
-      "media_reach": 1016,
       "media_reel_avg_watch_time": 13350,
       "media_reel_skip_rate": 0.33,
       "media_reel_total_interactions": 3,
@@ -123,7 +120,6 @@
     "style": "parchment",
     "metrics": {
       "media_views": 223,
-      "media_reach": 198,
       "media_reel_avg_watch_time": 6821,
       "media_reel_skip_rate": 0.508,
       "media_reel_total_interactions": 2,
@@ -149,7 +145,6 @@
     "style": "parchment",
     "metrics": {
       "media_views": 122,
-      "media_reach": 104,
       "media_reel_avg_watch_time": 6903,
       "media_reel_skip_rate": 0.548,
       "media_reel_total_interactions": 0,
@@ -176,7 +171,6 @@
     ],
     "metrics": {
       "media_views": 230,
-      "media_reach": 169,
       "media_reel_avg_watch_time": 9598,
       "media_reel_skip_rate": 0.414,
       "media_reel_total_interactions": 4,
@@ -208,7 +202,6 @@
     "notes": "Retention-focused cut: contradiction hook spoken from frame 0, on-screen number counting up in first second, ~22 s, open-loop question before twist ending, speed 1.08",
     "metrics": {
       "media_views": 196,
-      "media_reach": 142,
       "media_reel_avg_watch_time": 12465,
       "media_reel_skip_rate": 0.286,
       "media_reel_total_interactions": 1,
@@ -240,7 +233,6 @@
     ],
     "metrics": {
       "media_views": 116,
-      "media_reach": 105,
       "media_reel_avg_watch_time": 4873,
       "media_reel_skip_rate": 0.745,
       "media_reel_total_interactions": 0,
@@ -272,7 +264,6 @@
     ],
     "metrics": {
       "media_views": 162,
-      "media_reach": 133,
       "media_reel_avg_watch_time": 7981,
       "media_reel_skip_rate": 0.53,
       "media_reel_total_interactions": 2,
@@ -302,7 +293,6 @@
     ],
     "metrics": {
       "media_views": 150,
-      "media_reach": 124,
       "media_reel_avg_watch_time": 9620,
       "media_reel_skip_rate": 0.575,
       "media_reel_total_interactions": 0,
@@ -339,7 +329,6 @@
     },
     "metrics": {
       "media_views": 147,
-      "media_reach": 121,
       "media_reel_avg_watch_time": 10233,
       "media_reel_skip_rate": 0.378,
       "media_reel_total_interactions": 0,
@@ -371,7 +360,6 @@
     },
     "metrics": {
       "media_views": 134,
-      "media_reach": 119,
       "media_reel_avg_watch_time": 6003,
       "media_reel_skip_rate": 0.625,
       "media_reel_total_interactions": 0,
@@ -401,7 +389,6 @@
     ],
     "metrics": {
       "media_views": 175,
-      "media_reach": 133,
       "media_reel_avg_watch_time": 10959,
       "media_reel_skip_rate": 0.408,
       "media_reel_total_interactions": 0,
@@ -461,7 +448,6 @@
     ],
     "metrics": {
       "media_views": 157,
-      "media_reach": 138,
       "media_reel_avg_watch_time": 8080,
       "media_reel_skip_rate": 0.515,
       "media_reel_total_interactions": 0,
@@ -494,7 +480,6 @@
     ],
     "metrics": {
       "media_views": 141,
-      "media_reach": 125,
       "media_reel_avg_watch_time": 5905,
       "media_reel_skip_rate": 0.536,
       "media_reel_total_interactions": 0,
@@ -527,7 +512,6 @@
     ],
     "metrics": {
       "media_views": 180,
-      "media_reach": 136,
       "media_reel_avg_watch_time": 10109,
       "media_reel_skip_rate": 0.422,
       "media_reel_total_interactions": 0,
@@ -558,7 +542,6 @@
     ],
     "metrics": {
       "media_views": 115,
-      "media_reach": 99,
       "media_reel_avg_watch_time": 6431,
       "media_reel_skip_rate": 0.598,
       "media_reel_total_interactions": 1,
@@ -590,7 +573,6 @@
     ],
     "metrics": {
       "media_views": 157,
-      "media_reach": 118,
       "media_reel_avg_watch_time": 8350,
       "media_reel_skip_rate": 0.508,
       "media_reel_total_interactions": 1,
@@ -598,7 +580,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 989,
+      "video_view_count": 990,
       "video_like_count": 7
     }
   },
@@ -626,7 +608,6 @@
     ],
     "metrics": {
       "media_views": 161,
-      "media_reach": 138,
       "media_reel_avg_watch_time": 6905,
       "media_reel_skip_rate": 0.58,
       "media_reel_total_interactions": 1,
@@ -634,7 +615,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 330,
+      "video_view_count": 328,
       "video_like_count": 3
     }
   },
@@ -660,7 +641,6 @@
     ],
     "metrics": {
       "media_views": 151,
-      "media_reach": 117,
       "media_reel_avg_watch_time": 8813,
       "media_reel_skip_rate": 0.432,
       "media_reel_total_interactions": 0,
@@ -668,7 +648,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1221,
+      "video_view_count": 1227,
       "video_like_count": 17
     }
   },
@@ -691,7 +671,6 @@
     ],
     "metrics": {
       "media_views": 139,
-      "media_reach": 115,
       "media_reel_avg_watch_time": 7429,
       "media_reel_skip_rate": 0.461,
       "media_reel_total_interactions": 1,
@@ -699,7 +678,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 273,
+      "video_view_count": 280,
       "video_like_count": 2
     }
   },
@@ -723,7 +702,6 @@
     ],
     "metrics": {
       "media_views": 118,
-      "media_reach": 103,
       "media_reel_avg_watch_time": 7189,
       "media_reel_skip_rate": 0.505,
       "media_reel_total_interactions": 0,
@@ -731,7 +709,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 161,
+      "video_view_count": 162,
       "video_like_count": 1
     }
   },
@@ -755,7 +733,6 @@
     ],
     "metrics": {
       "media_views": 140,
-      "media_reach": 105,
       "media_reel_avg_watch_time": 9425,
       "media_reel_skip_rate": 0.442,
       "media_reel_total_interactions": 3,
@@ -763,7 +740,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1006,
+      "video_view_count": 1060,
       "video_like_count": 10
     }
   },
@@ -788,5 +765,27 @@
       "https://www.britannica.com/place/Windsor-Ontario",
       "https://en.wikipedia.org/wiki/Windsor,_Ontario"
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "time": "18:40",
+    "style": "parchment",
+    "topic": "Magellan expedition 1519-22: 5 ships left Spain, Magellan killed at Mactan in April 1521, only the Victoria returned in 1522 with 18 men under Elcano",
+    "kind": "famous voyage",
+    "hook_type": "contradiction of two familiar things",
+    "title": "Round the world, 1519: / 1 SHIP OF 5",
+    "yt_title": "Magellan never sailed round the world #Shorts",
+    "video": "v/2026-11-27-1840-magellan-1-ship-of-5.mp4",
+    "instagram_media_id": "17894635656620468",
+    "youtube_video_id": null,
+    "metricool_post_id": 444733300,
+    "experiment": "Second test of the spoken question hook outside cosmic ('Did Magellan really sail around the world?'), claim + number on the title card, in parchment; also first myth-bust of a familiar name in parchment. 24.1 s, 65 words",
+    "narration": "Did Magellan really sail around the world? Five ships leave Spain in fifteen nineteen. He finds a passage past South America. Then over three months on the Pacific, eating leather. In the Philippines, Magellan is killed in battle. Only two ships reach the Spice Islands. In fifteen twenty-two, one ship of five limps home. Eighteen men. Who led them? Elcano finished the trip. Not Magellan.",
+    "sources": [
+      "https://www.britannica.com/biography/Ferdinand-Magellan",
+      "https://www.nationalgeographic.com/history/history-magazine/article/240-men-started-magellan-voyage-around-world-only-18-finished-it",
+      "https://en.wikipedia.org/wiki/Battle_of_Mactan"
+    ],
+    "youtube_error": "Metricool: You have reached your Metricool account limit."
   }
 ]
