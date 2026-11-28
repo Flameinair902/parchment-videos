@@ -549,7 +549,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 284,
+      "video_view_count": 283,
       "video_like_count": 1
     }
   },
@@ -615,7 +615,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 328,
+      "video_view_count": 325,
       "video_like_count": 3
     }
   },
@@ -648,7 +648,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1227,
+      "video_view_count": 1240,
       "video_like_count": 17
     }
   },
@@ -678,7 +678,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 280,
+      "video_view_count": 288,
       "video_like_count": 2
     }
   },
@@ -709,7 +709,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 162,
+      "video_view_count": 165,
       "video_like_count": 1
     }
   },
@@ -740,7 +740,7 @@
       "media_saved": 0
     },
     "yt_metrics": {
-      "video_view_count": 1060,
+      "video_view_count": 1089,
       "video_like_count": 10
     }
   },
@@ -764,7 +764,15 @@
       "https://www.thecanadianencyclopedia.ca/en/article/windsor-ont",
       "https://www.britannica.com/place/Windsor-Ontario",
       "https://en.wikipedia.org/wiki/Windsor,_Ontario"
-    ]
+    ],
+    "metrics": {
+      "media_views": 137,
+      "media_reel_avg_watch_time": 6891,
+      "media_reel_skip_rate": 0.434,
+      "media_reel_total_interactions": 0,
+      "media_shares": 0,
+      "media_saved": 0
+    }
   },
   {
     "date": "2026-11-27",
@@ -786,6 +794,33 @@
       "https://www.nationalgeographic.com/history/history-magazine/article/240-men-started-magellan-voyage-around-world-only-18-finished-it",
       "https://en.wikipedia.org/wiki/Battle_of_Mactan"
     ],
-    "youtube_error": "Metricool: You have reached your Metricool account limit."
+    "youtube_error": "Metricool: You have reached your Metricool account limit.",
+    "metrics": {
+      "media_views": 122,
+      "media_reel_avg_watch_time": 7573,
+      "media_reel_skip_rate": 0.567,
+      "media_reel_total_interactions": 2,
+      "media_shares": 0,
+      "media_saved": 0
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "time": "12:45",
+    "style": "data",
+    "topic": "The Moon drifts about 3.8 cm further from Earth every year (lunar laser ranging off Apollo mirrors): over 2 m since 1969; slower than fingernails grow (4.2 cm/yr), faster than the Atlantic widens (2 cm/yr)",
+    "kind": "surprising statistic",
+    "hook_type": "contradiction of two familiar things",
+    "title": "The Moon drifts 3.8 cm a year",
+    "video": "v/2026-11-28-1245-moon-drifts-away.mp4",
+    "instagram_media_id": "18082715771392309",
+    "youtube_video_id": null,
+    "experiment": "Spoken question hook in data style ('How fast is the Moon leaving us?') with the 3.8 cm claim on the hook card; familiar-pair comparison (Moon vs fingernails vs Atlantic); 22.8 s, 60 words. YouTube failed: Metricool account limit.",
+    "narration": "How fast is the Moon leaving us? Three point eight centimetres further, every single year. Since Apollo eleven landed in nineteen sixty-nine, it adds up. That's over two metres further away today. Now compare it with things you know. The Atlantic widens slower. Your fingernails grow a bit faster. So how do we measure it? Lasers bounced off Apollo's mirrors.",
+    "sources": [
+      "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/",
+      "https://pubmed.ncbi.nlm.nih.gov/19744178/",
+      "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent/Mid-Atlantic-Ridge"
+    ]
   }
 ]
