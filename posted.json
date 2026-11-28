@@ -755,7 +755,7 @@
     "video": "v/2026-11-27-1300-detroit-canada-south.mp4",
     "instagram_media_id": "18098577293689772",
     "youtube_video_id": null,
-    "youtube_error": "Metricool: 'You have reached your Metricool account limit.' (post 444334041)",
+    "youtube_error": "Metricool account limit",
     "experiment": "Spoken question hook ('Which way do you drive from Detroit to Canada?') with the claim on the title card, as in Proxima, tested outside cosmic (lowpoly geography flip); 21.7 s, 55 words",
     "narration": "Which way do you drive from Detroit to Canada? South. The Ambassador Bridge, opened in nineteen twenty-nine, lands you in Windsor. Keep heading south, to Middle Island in Lake Erie, Canada's southernmost point. Forty-one point seven degrees north, further south than California's northern border. Still think Canada is always up? Head south to reach Canada.",
     "sources": [
@@ -794,7 +794,7 @@
       "https://www.nationalgeographic.com/history/history-magazine/article/240-men-started-magellan-voyage-around-world-only-18-finished-it",
       "https://en.wikipedia.org/wiki/Battle_of_Mactan"
     ],
-    "youtube_error": "Metricool: You have reached your Metricool account limit.",
+    "youtube_error": "Metricool account limit",
     "metrics": {
       "media_views": 122,
       "media_reel_avg_watch_time": 7573,
@@ -821,6 +821,7 @@
       "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/",
       "https://pubmed.ncbi.nlm.nih.gov/19744178/",
       "https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent/Mid-Atlantic-Ridge"
-    ]
+    ],
+    "youtube_error": "Metricool account limit"
   }
 ]
